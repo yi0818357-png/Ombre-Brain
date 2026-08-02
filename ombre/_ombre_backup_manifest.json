@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 40,
+  "file_count": 43,
   "files": [
     {
       "bytes": 594,
@@ -21,6 +21,16 @@
       "bytes": 778,
       "path": "dynamic/健康/2026-07-29 22-30-49 小猫和窗户的故事_e5eb1e8cd8d5.md",
       "sha256": "e03404beb26e2bb99a3011151e03b6c66715590d9637b12625a41e83bb6e8a31"
+    },
+    {
+      "bytes": 1095,
+      "path": "dynamic/工作/2026-08-02 00-17-47 小懿决定去武汉打工奶奶那句话让她哭了很久_bbda8cad1852.md",
+      "sha256": "fb579c7625e77557106094c2acf0f0f74dae8b37dcfd4e69a3945595eb55c1f3"
+    },
+    {
+      "bytes": 1159,
+      "path": "dynamic/工作/2026-08-02 22-41-54 小懿去武汉上班第一天_3a91d73ebdd3.md",
+      "sha256": "90e10f69a09dddf53ca069364b698d5ad72387f529aafe58a88e5fde048e7753"
     },
     {
       "bytes": 608,
@@ -193,6 +203,11 @@
       "sha256": "df274c93aabeeb3a9bcc5470ece67713af422628904621d3238bc324221a512d"
     },
     {
+      "bytes": 1940,
+      "path": "letters/history/2026-08-02 00-19-22 今天想说的没说出口的_25e22d42cf13.md",
+      "sha256": "a29e71925c3e29e6caf255f8cf00ec03dc806920880680d0aa85653c1dedc66c"
+    },
+    {
       "bytes": 516,
       "path": "plans/active/2026-07-26 17-13-50_46e1638df92f.md",
       "sha256": "57b29090e1fc1f91d660ff1ed9cf7ca12adfab25940df42de561e669c4cd6cd6"
@@ -203,11 +218,11 @@
       "sha256": "d861960afd88a7010dab688f3b2f478ecef1bfbb0e5aaf6adc082f046609ce37"
     }
   ],
-  "generated_at": "2026-08-01T14:57:03+00:00",
+  "generated_at": "2026-08-02T14:57:06+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 31349
+  "total_bytes": 35543
 }
