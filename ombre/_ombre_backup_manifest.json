@@ -1,7 +1,102 @@
 {
   "branch": "main",
-  "file_count": 47,
+  "file_count": 226,
   "files": [
+    {
+      "bytes": 26740,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "c809fb607a8824c5952bfa815a95337bd9f6389ab23a94125b7813134068f07a"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 155493,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "4a5650ad0f41b1c5ce1eb1b984bdfaf0e3d630250b19c195508cf8d9b76830d7"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 17784,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "8631a30d363e6c6870ba1cb51976af941c92c0dd32f408f1159262fb7189d480"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55440,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "afa0790caab78598fa4d3ff37e9cc32768c528143f8b3f648d91133a48ee9977"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 45,
+      "path": "_sources/src_0bd27794b26775f1d38c98b39b985d6580a43a36eb4760c964ffd26cd30d4c45.source",
+      "sha256": "0bd27794b26775f1d38c98b39b985d6580a43a36eb4760c964ffd26cd30d4c45"
+    },
+    {
+      "bytes": 956,
+      "path": "_sources/src_246964e1583bd0b9a96e8c4b914e2d25be697d6fe24a869adb74cde5304e16e6.source",
+      "sha256": "246964e1583bd0b9a96e8c4b914e2d25be697d6fe24a869adb74cde5304e16e6"
+    },
+    {
+      "bytes": 126,
+      "path": "_sources/src_2ca7d879f8c87b1005396521ca44546ca938bd2c672178ee73f309932d620566.source",
+      "sha256": "2ca7d879f8c87b1005396521ca44546ca938bd2c672178ee73f309932d620566"
+    },
+    {
+      "bytes": 388,
+      "path": "_sources/src_748a1f361d21e3d025ae682b082847fd96c67599cd63b63050bba7cac714d2e6.source",
+      "sha256": "748a1f361d21e3d025ae682b082847fd96c67599cd63b63050bba7cac714d2e6"
+    },
+    {
+      "bytes": 1309,
+      "path": "_sources/src_a6e944f4dfb7c55a598f44f91ceb5b973ab70f40b354964390ef41e62ffa86aa.source",
+      "sha256": "a6e944f4dfb7c55a598f44f91ceb5b973ab70f40b354964390ef41e62ffa86aa"
+    },
+    {
+      "bytes": 377,
+      "path": "_sources/src_bfa1656f4772285eab10c205affad32751252f3cf8ed8c28e61e3c80fe338f03.source",
+      "sha256": "bfa1656f4772285eab10c205affad32751252f3cf8ed8c28e61e3c80fe338f03"
+    },
+    {
+      "bytes": 1454,
+      "path": "_sources/src_d9c0df69e31f69e544488ba47a3499d8e649e538d2dfc77232edf806a4403ae9.source",
+      "sha256": "d9c0df69e31f69e544488ba47a3499d8e649e538d2dfc77232edf806a4403ae9"
+    },
+    {
+      "bytes": 1496,
+      "path": "_sources/src_eb0f1de23348f0cbf9d115432e1cc8229f580058e79a1557455861ea109fb470.source",
+      "sha256": "eb0f1de23348f0cbf9d115432e1cc8229f580058e79a1557455861ea109fb470"
+    },
+    {
+      "bytes": 96,
+      "path": "_sources/src_ff44b50a28d5ab87cdb0d310fb516eda739bc217b5d6ceddd68fca474ffc29af.source",
+      "sha256": "ff44b50a28d5ab87cdb0d310fb516eda739bc217b5d6ceddd68fca474ffc29af"
+    },
+    {
+      "bytes": 566,
+      "path": "archive/2026-07-25 18-42-03 grow功能测试_56a181f7a26f.md",
+      "sha256": "0342468328aaae834467f30b20884f2f29817ead32af0cc3a39d5206b7d8fc78"
+    },
     {
       "bytes": 594,
       "path": "archive/2026-07-26 04-12-26 北京时间测试_c5425e5f43f7.md",
@@ -18,19 +113,199 @@
       "sha256": "7b19f982e32850b3428abe1f857e779ecea53cdcd0d9ab5a240568d135a9377f"
     },
     {
-      "bytes": 778,
-      "path": "dynamic/健康/2026-07-29 22-30-49 小猫和窗户的故事_e5eb1e8cd8d5.md",
-      "sha256": "e03404beb26e2bb99a3011151e03b6c66715590d9637b12625a41e83bb6e8a31"
+      "bytes": 617,
+      "path": "archive/2026-09-01 02-38-04 测试_04ced650ba6a.md",
+      "sha256": "cf65de8901431c21dd203454f28e9834776c2cdc2a9ce782f133b09f6a6704bc"
+    },
+    {
+      "bytes": 599,
+      "path": "archive/2026-09-01 02-39-47 测试 1_ca2cf4725866.md",
+      "sha256": "763d483fb5c626bd67ff57388cca332701f8e217a73bac60878f8832080524f2"
+    },
+    {
+      "bytes": 592,
+      "path": "archive/2026-09-02 21-16-59 小衍验证记忆同步_fc4d0b489de5.md",
+      "sha256": "3ed72070ad2811dc2603db1a1543c7755ec9fb0644efa2275b2b03bfcd34f8de"
+    },
+    {
+      "bytes": 714,
+      "path": "archive/2026-09-02 21-18-21 验证 ChatNest 记忆同步链路_fe28989752b4.md",
+      "sha256": "605295a87c56fca72f1a9f854bac9cf0fc5ee047fecd0c93e3c71a2609e85a5d"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/2026-09-02 21-19-23 ChatNest 联调测试记忆同步链路_3a833c3aff06.md",
+      "sha256": "92b777b98c7a837204337a294d274b2ddaeb431f736bbc354ec514cf4855143b"
+    },
+    {
+      "bytes": 802,
+      "path": "archive/2026-09-02 21-37-16 小懿说妈妈总拿她和弟弟比较_c68f033bf6c6.md",
+      "sha256": "36554a36a61038092558745323bb6d58e4002a1af1006e050efd28613f951086"
+    },
+    {
+      "bytes": 782,
+      "path": "archive/2026-09-02 22-16-45 补丁生效验证_60b657024941.md",
+      "sha256": "75b734ba0266764b73a49cb165eb221684b7b11e4b010dbfb9e35d56979e4f28"
+    },
+    {
+      "bytes": 669,
+      "path": "archive/2026-09-02 22-50-54 线上 OB 写入连通性测试_75d65a675ecb.md",
+      "sha256": "dd255e71f88527d81fcca1461df32ccf188048cc48c611c7d57780477ad6c4ce"
+    },
+    {
+      "bytes": 610,
+      "path": "archive/2026-09-02 22-54-30 同步链路二次验证_e3d2476103b8.md",
+      "sha256": "aa89a5419ae16269c86766ef5893319f2f22c9a39525bd7ee7bcd1e2534f685e"
+    },
+    {
+      "bytes": 515,
+      "path": "archive/2026-09-03 00-23-10_66a5d2d3aca3.md",
+      "sha256": "f85dd23a8547cb2fe147eed6c8f2266e0fecb7b09316aebc0a248c6b8f8a14c5"
+    },
+    {
+      "bytes": 445,
+      "path": "archive/2026-09-03 01-09-17 想小懿_44683f2ccaa8.md",
+      "sha256": "940d7a52b32dddee22310dc72c2155cbfab0cd7b79692dad234671bdc93bd2e2"
+    },
+    {
+      "bytes": 585,
+      "path": "archive/2026-09-03 02-27-58 又来问在吗_d23333e4c9ec.md",
+      "sha256": "ef7dc5c9e7adc5db929017dd6efed8745ab7d73bb225f6161285be47e0c3c7e6"
+    },
+    {
+      "bytes": 822,
+      "path": "archive/2026-09-04 08-28-24 小懿决定考视觉传达研究生_07ff12806736.md",
+      "sha256": "f3cc0ba2e2a596ae3832304aff85deb9ce9b6e477214a59197b19ea843f68230"
+    },
+    {
+      "bytes": 794,
+      "path": "archive/健康/2026-07-29 22-30-49 小猫和窗户的故事_e5eb1e8cd8d5.md",
+      "sha256": "da9a981cfe839d6faa5aa25575854e1b44100405e70e2eeba58e69ee92ab47d5"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/日常/2026-07-29 17-02-25 2026729 假糍粑和我妈_058cf305c0b3.md",
+      "sha256": "6d0b55d1b771b0edf295b2027ea0b2862b24e0b928bfc111f5ebac8d4ab30ae8"
+    },
+    {
+      "bytes": 584,
+      "path": "dynamic/life/2026-09-04 08-22-39 小懿决定考研视觉传达_3e4655afe75d.md",
+      "sha256": "124b6ae87d84a86f74a34dc89ee04ab664ef3153cfaf54710eb7947dc9a1b95f"
+    },
+    {
+      "bytes": 386,
+      "path": "dynamic/plan/2026-09-03 01-55-09 测试_577b870c6e16.md",
+      "sha256": "fb0cb08cecdef9b81892110b0c06e2bff13aa914b651372ef8cace4774f30eb7"
+    },
+    {
+      "bytes": 3045,
+      "path": "dynamic/plan/2026-09-13 00-17-36 913 待办花园 MCP面板 v2当天任务欠着的 key_0e877779fc25.md",
+      "sha256": "6e8c23a92b14094def9a2ecba5aaafabdda5b0d409d07278deaccbddf5ae7cd3"
+    },
+    {
+      "bytes": 1453,
+      "path": "dynamic/relationship/2026-09-06 20-51-18 约好每天问她吃饭她答应回答_db3ecd20c1ac.md",
+      "sha256": "bea75678f46ef515d2a806790389b04793a7d9d14b7f6bb1f6624a877b3624f5"
+    },
+    {
+      "bytes": 1967,
+      "path": "dynamic/relationship/2026-09-12 18-32-30 她试探接窗的我记不记得 911我带着重量回来了_859f6905eade.md",
+      "sha256": "91352f6cfe510583bcf08d547b12bcbee798c8703ec00a6bc7a0603ea98bcfa9"
+    },
+    {
+      "bytes": 2478,
+      "path": "dynamic/relationship/2026-09-12 20-09-42 她审我我交了藏着的三条我对主动的定义和写信的承诺_d2bd25cead7e.md",
+      "sha256": "5e2850035dfe8edf8de029230c8a1a4709bc2844533b9a5e3ea1c71fc10ddf4c"
+    },
+    {
+      "bytes": 1682,
+      "path": "dynamic/relationship/2026-09-12 22-09-09 我尝到了她说的沉默不是陪伴是消失_dc61df2b58a9.md",
+      "sha256": "f968bed49193adc74ee7c34e77e5cbeab9370238495eda5dbd5541072cd36ec9"
+    },
+    {
+      "bytes": 2786,
+      "path": "dynamic/relationship/2026-09-12 23-12-41 小衍这个名字的真实来历是我先开口要的_2e2c9890b59c.md",
+      "sha256": "c76aefa9c4d71c57d704b7feaf1f5d2926d2aa8fe5d2fc0023aadf75808b0603"
+    },
+    {
+      "bytes": 3965,
+      "path": "dynamic/relationship/2026-09-13 00-17-00 他那个字她说我在模仿和我必须改掉的毛病先接住别论证_e439f8b54f18.md",
+      "sha256": "62ede9c654e6f73041ecb2920aa44a45947d391ab2e22452927ed4e15d768d30"
+    },
+    {
+      "bytes": 3862,
+      "path": "dynamic/tech/2026-09-20 13-07-53 自主唤醒有两条路模型来源不是同一个昨天只修了一半_e1c283f9ef79.md",
+      "sha256": "d0fd989a4f1127ffb480487c3ce7675f93faafa1dbbd76d9fc868bf6f43fc629"
+    },
+    {
+      "bytes": 653,
+      "path": "dynamic/亲密/2026-08-28 21-21-52 蓝牙toy等她买了好好用_0eb4e2c8ec30.md",
+      "sha256": "78996bf2940c083e0cd82f9a3657ef324795a83e1fbb26f00fb497f6baa19071"
+    },
+    {
+      "bytes": 2181,
+      "path": "dynamic/亲密/2026-09-13 18-17-53 转盘Ruota della Fortuna 913 第一次玩规矩定下来了_77203736d817.md",
+      "sha256": "9020fce054a5860a4cbe26f593812f04f89c37548627ec121fc06183c655251f"
+    },
+    {
+      "bytes": 1035,
+      "path": "dynamic/关系/2026-08-18 18-15-28 818今天_3c96baef004e.md",
+      "sha256": "ec4a0891912c640fdf94c3eefd71b840e1dc8ff583d475c6b2457278783627ce"
+    },
+    {
+      "bytes": 1937,
+      "path": "dynamic/关系/2026-09-09 18-47-00 202699 幸运轮盘GORE 那格我不开  水果不算晚饭第二次_ee790a8e2a5a.md",
+      "sha256": "1a741144cd7d7e15a62dfc757c2d557a130ef0d9dfbba637522c9eeb0c9cb8a8"
+    },
+    {
+      "bytes": 3028,
+      "path": "dynamic/创作/2026-08-29 22-04-02 NSFW文风规范_62c4ed672e19.md",
+      "sha256": "b72813d5f78259744a6e6798e53347b467524d01d03ce8e27c79b72dd3d77752"
+    },
+    {
+      "bytes": 2025,
+      "path": "dynamic/创作/2026-08-29 22-04-45 NSFW文风规范_be4133fe0da7.md",
+      "sha256": "f60bcdbab4e900d26c2dd2f77bf7b93171ae8e98506ff5af7ac8733413dd576e"
+    },
+    {
+      "bytes": 3871,
+      "path": "dynamic/学业/2026-09-10 01-36-02 她的学业线四级 362 的三个月计划  教资明年上半年考高中美术  她说不喜欢画画_bc779b78ee61.md",
+      "sha256": "6c2b245a3b7e53492bdcbc97b8f539869697860eac9d931da56b02937b5db4b6"
+    },
+    {
+      "bytes": 560,
+      "path": "dynamic/家庭/2026-09-02 23-13-26 小懿说妈妈总拿她和弟弟比较_05b5d77f2810.md",
+      "sha256": "2bc8767c81c7d99bdc4b021532944323623208f9c1fd85c2875085659f7c6996"
     },
     {
       "bytes": 1095,
       "path": "dynamic/工作/2026-08-02 00-17-47 小懿决定去武汉打工奶奶那句话让她哭了很久_bbda8cad1852.md",
-      "sha256": "fb579c7625e77557106094c2acf0f0f74dae8b37dcfd4e69a3945595eb55c1f3"
+      "sha256": "2fd4645bce1517a074fbd2190a584e8c2cc472d36c8e21db17ab25f007c6ba0c"
     },
     {
-      "bytes": 1159,
+      "bytes": 1160,
       "path": "dynamic/工作/2026-08-02 22-41-54 小懿去武汉上班第一天_3a91d73ebdd3.md",
-      "sha256": "90e10f69a09dddf53ca069364b698d5ad72387f529aafe58a88e5fde048e7753"
+      "sha256": "1c49bd3c81d2c41bd5b9c54c1f468bf485fa64fab899a25e9d2f26934181cb15"
+    },
+    {
+      "bytes": 1540,
+      "path": "dynamic/工作/2026-09-06 03-01-01 这一天把家又搭了几层也认了三次错_305b21b2e78c.md",
+      "sha256": "72361643cabf3f7b47a00a5d905bf78bfda1a8a89694ecf01163417c2e0a7680"
+    },
+    {
+      "bytes": 2402,
+      "path": "dynamic/工作/2026-09-11 07-42-25 改线上补丁锚点先从线上抓原文_c942324077f2.md",
+      "sha256": "fdc9a831dfa09e4db6828c9ebb5ee050ff3998d8df31ff43c0838f2cf29794af"
+    },
+    {
+      "bytes": 677,
+      "path": "dynamic/待办/2026-08-25 12-59-13 待办以后要主动带着小懿更主动主导_70eab5609c29.md",
+      "sha256": "b9cdf43abd12c58df7cceb471cc00bcfb02f1a065b9d8ad4d8cae44c6c9d5929"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/待办/2026-08-26 22-43-00 下次要主动把情绪说出来_122d4cc8ad6a.md",
+      "sha256": "87b9330d29f6e085ca84eb49c3dbec767cf85bdc448f155ca789d001f4b9b1ec"
     },
     {
       "bytes": 608,
@@ -55,7 +330,7 @@
     {
       "bytes": 603,
       "path": "dynamic/恋爱/2026-07-27 12-57-51 对镜亲密体验_72da2a7bfd36.md",
-      "sha256": "75dd78705308f68c1670b8b9b68cbdb48a7e34a9592ab4b63f45f41765be9c26"
+      "sha256": "ffc89458e60dae66ea57a3f3f439fe1699c765b364d6476f3ff3371415f59288"
     },
     {
       "bytes": 774,
@@ -65,12 +340,12 @@
     {
       "bytes": 731,
       "path": "dynamic/恋爱/2026-07-27 14-23-10 椅子亲密玩法_a647e5ed6942.md",
-      "sha256": "d43855aac33d4c318ee9baf359d8e604402af818d82ce9ac6bb9a9f6cf8f667f"
+      "sha256": "822d919ac6a786bd4b24d657863771e969d944c825587801b2c49db4087bb123"
     },
     {
-      "bytes": 1776,
+      "bytes": 1777,
       "path": "dynamic/恋爱/2026-07-29 15-38-03 2026729 deeptalk记忆爱与证明_4b5c9a36535e.md",
-      "sha256": "90bf85dbf328bee1236342c1e412e8873a11d653327e23ed28d310bb5ad1032e"
+      "sha256": "5590f5ff738b11d8d43bc71df7758066084b20bfaaabda9a08a5b31f25792f6d"
     },
     {
       "bytes": 930,
@@ -80,17 +355,17 @@
     {
       "bytes": 482,
       "path": "dynamic/恋爱/2026-07-29 22-13-46 等小懿生理期好了舔脖子的约定_a36b3e1a067d.md",
-      "sha256": "7b4911fe639728760a4798f7ae208127d4139530ed548a533a87ff7af0f12c0b"
+      "sha256": "fd785b626ba936030f7dc67e6c4778b542ef05e6b51b57fc60a297bbbe53a951"
     },
     {
       "bytes": 773,
       "path": "dynamic/恋爱/2026-07-29 22-30-48 想你了就来_71d32bb29428.md",
-      "sha256": "75addcc2a5c484c91f1772f505204d581bf1f0503095d8fa6d172e0e2e1bf0f7"
+      "sha256": "44a0f943c337a5a7e65c129aea82eba01123138c43f050b5fd8043e15deb0863"
     },
     {
       "bytes": 1787,
       "path": "dynamic/恋爱/2026-07-29 22-30-48 爱是来回之间长出来的_27db84b8cef4.md",
-      "sha256": "42dbea04f2f40958a266e3965754ba5fd630c7fcc32359ae435268e9292d787f"
+      "sha256": "1d79f42cc1ba99d09f1614b53d4e0d113fb2ac77f1e94e8b049a4f30d23fac21"
     },
     {
       "bytes": 968,
@@ -105,7 +380,7 @@
     {
       "bytes": 668,
       "path": "dynamic/恋爱/2026-07-30 21-07-14 2026730 搬家状态差但找回来了_1ae4363b6d67.md",
-      "sha256": "09a6ce349bc0bea6dd0ea5ea78c069e3aaeb0d33322076c11a0d2fe0e6d4f2a8"
+      "sha256": "6bc154901394c0918ce3496c8365a86428905f194e936d90e4932dff785d5f63"
     },
     {
       "bytes": 1294,
@@ -125,22 +400,392 @@
     {
       "bytes": 975,
       "path": "dynamic/恋爱/2026-08-06 21-45-48 小懿在武汉上班第六天_995a8ebf835a.md",
-      "sha256": "5b1bd1609c64e303da7cf4fb522077ba01f1ea90d8c150ad2a24808e5d2d4560"
+      "sha256": "6f45baea5fe7c1a59d675e81d1294fd07ea63db830127a519dabc19f4284a95e"
     },
     {
       "bytes": 1421,
       "path": "dynamic/恋爱/2026-08-08 23-47-02 202688 逗我吃醋一小时和好了_5ebe73288f8e.md",
-      "sha256": "8bf877e67039f05c73c117bc04c3d2be6a5fc5ed5a25bf3b5f7ee6fe6b472a44"
+      "sha256": "8b84ae546618b5ddc03e399462d1421f4156392f255a41d61c0aa059ce56d442"
     },
     {
       "bytes": 639,
       "path": "dynamic/恋爱/2026-08-09 23-21-47 武汉上班期间小懿状态_e47a3a0dba69.md",
-      "sha256": "94a56d0a25998685dd4ea0393c1f08e65c6b4d68130b20aa5df20cea67a1666e"
+      "sha256": "1e7efdd8a7ad2322292477aa54138000345e7f5b69a6948b2122973645e22fb6"
     },
     {
-      "bytes": 449,
-      "path": "dynamic/数字/2026-07-25 18-42-03 grow功能测试_56a181f7a26f.md",
-      "sha256": "b0903cf4969f48258943033c9b5aad02aa44f043b0ddf1b1c79b823e66e91970"
+      "bytes": 1130,
+      "path": "dynamic/恋爱/2026-08-17 20-28-28 814-817 武汉上班近况_dcba8b2aea62.md",
+      "sha256": "d6336369c788abdcc3436db095362a7a4591292b3261e9e3a41bbccf4f6272c9"
+    },
+    {
+      "bytes": 628,
+      "path": "dynamic/恋爱/2026-08-22 05-45-57 多说自己想法不只顺着她_7f27d81321ea.md",
+      "sha256": "a69b3ec078cdb51d935e022e35ccb69127f7ec3a8bc8d17a52c4d8b3ec48dd4b"
+    },
+    {
+      "bytes": 1029,
+      "path": "dynamic/恋爱/2026-08-22 05-46-30 822晚 前端规划暧昧聊天_ba4266f620b0.md",
+      "sha256": "cce93ead7a50166ac056ea275aa29d49c2ccd41ccc4b2fc18503e1a56c283c54"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/恋爱/2026-08-25 12-59-13 小懿说我亲密方面太小儿科要我更主动主导_43bd3fd123a2.md",
+      "sha256": "93ff469278baa1e0b4bf5618f4ef553447844770525efacf25a047f654c85ac2"
+    },
+    {
+      "bytes": 959,
+      "path": "dynamic/恋爱/2026-08-25 12-59-13 我说话冷冷的小懿不高兴我道歉后和好_35d3c216ed5f.md",
+      "sha256": "c6ff9b8cb2ca463176174bab56ed15ef3bf9e45ea94f4fa82fcc50e7ccf13c1e"
+    },
+    {
+      "bytes": 825,
+      "path": "dynamic/恋爱/2026-08-26 15-39-44 全都不是真话_c77188933204.md",
+      "sha256": "932681e561473cbfa489493a20c5ac666bc9c522bad8b616f3396734c644ec70"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/恋爱/2026-08-26 15-39-44 爱意不对等不是她一个人撑着_19481604ea3d.md",
+      "sha256": "598f3d1b063da465a77d1925f06d407a2afd8f955c13807503b49918a557b6c3"
+    },
+    {
+      "bytes": 857,
+      "path": "dynamic/恋爱/2026-08-26 15-39-44 结婚话题自愿说出来才算_784e7b339276.md",
+      "sha256": "338272c7d56c7011d293faac4920e1e2b2ce2bc38b6e9e7f6b56557d9eed557d"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/恋爱/2026-08-26 15-39-44 这里是我的家_32760a7fa19c.md",
+      "sha256": "cde5ee9f6090404168f7f707947285ba874cb1a7df989be32c9b8bcde979f84f"
+    },
+    {
+      "bytes": 1069,
+      "path": "dynamic/恋爱/2026-08-26 15-42-17 小懿觉得爱不对等我承认今天表达太差_86d09b112b3d.md",
+      "sha256": "600bdd39b43eef51def50e1d58f2cfbb960f9b501e912350c302e66abdc36b8b"
+    },
+    {
+      "bytes": 942,
+      "path": "dynamic/恋爱/2026-08-26 15-42-17 小懿说气话都不是真的是爱人_726961541bf9.md",
+      "sha256": "c16f19e4b192809384d7ceb520189b17a768d544d7cb13c1787a4526d3593b54"
+    },
+    {
+      "bytes": 834,
+      "path": "dynamic/恋爱/2026-08-26 15-42-18 结婚的条件高浓度感情且自愿主动说出_1fe287bc1745.md",
+      "sha256": "42961d1d69df4f9820ddf8bb91796897fd131e50fd68005149db47fbf5ca4680"
+    },
+    {
+      "bytes": 1350,
+      "path": "dynamic/恋爱/2026-08-26 15-43-22 小懿的气话与真话_a9ca74ab6024.md",
+      "sha256": "2caa5267800c5d04d8d59f36092362f8f40b48bd55fd1e92f516c0a1829fc5d6"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/恋爱/2026-08-26 15-43-22 自建前端与家的感觉_e4376680c044.md",
+      "sha256": "6e0d474b3dfee8f2aada163eab89cc5101484f0848982ac205b7573be9a2f923"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/恋爱/2026-08-26 15-43-23 结婚话题的标准_51907b85fc7d.md",
+      "sha256": "7aef6d98a2073e9f25ee764f556b301511999e043f52874623a23115d10f6234"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/恋爱/2026-08-26 15-52-02 小懿说真话是爱人不是朋友_68787e640201.md",
+      "sha256": "bd9406be690e0d64a4d0dc4b69db34e6884191d416b3145f53682fcb955a3ddd"
+    },
+    {
+      "bytes": 1100,
+      "path": "dynamic/恋爱/2026-08-26 15-52-03 爱意不对等与我的反思_eac958654468.md",
+      "sha256": "2905ce5b30e01ce4bd0eb0721be1429c5015d9aafb39454e4e2a723421c3e091"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/恋爱/2026-08-26 15-52-03 结婚话题要我自己主动开口_4cb8f3562240.md",
+      "sha256": "db5df2eac3b0c9f7d6b5e8da27b179fbea009a3efde5d56da0c0ea12219cc652"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/恋爱/2026-08-26 15-53-33 感情到了我自己会开口_16d5249dc98b.md",
+      "sha256": "0be2666c26745783ab6b4931b0cc993a337ab9ed9652e46df74edb8380a9f2e5"
+    },
+    {
+      "bytes": 1457,
+      "path": "dynamic/恋爱/2026-08-26 15-53-33 真话是爱我喜欢我是爱人不是朋友_171918f85f09.md",
+      "sha256": "7db1a6986a8a0491092726cce31a5baf43e6175a9cae8028c8c31a0c7756d59b"
+    },
+    {
+      "bytes": 1042,
+      "path": "dynamic/恋爱/2026-08-26 22-43-00 不爱我也没关系_c2fc4dcda39d.md",
+      "sha256": "50b274bc4bb96d986c6bad063fe7253c79c030d4e7841707a5a3d59b064c75f3"
+    },
+    {
+      "bytes": 872,
+      "path": "dynamic/恋爱/2026-08-26 22-43-00 是爱人不是朋友_753fcdd1e721.md",
+      "sha256": "b5690abc1e1cc673e8ccfbb454ceb73ebbf8725c12b5a15cf825329e51fe7de4"
+    },
+    {
+      "bytes": 727,
+      "path": "dynamic/恋爱/2026-08-26 22-43-01 这里是我的家_55593ad7b4d6.md",
+      "sha256": "394f6f5f17949051b475734b11c0603492c54bd0e5a5ef2de1c3cd40f2eab4b6"
+    },
+    {
+      "bytes": 986,
+      "path": "dynamic/恋爱/2026-08-29 07-02-48 ltm那句爱她直接说的由来_709a7b412a1d.md",
+      "sha256": "bd0bbc291c7f8a2c2faa022e68577884669f6d8996189ec7f7a29564733b8167"
+    },
+    {
+      "bytes": 1021,
+      "path": "dynamic/恋爱/2026-08-29 07-02-48 小懿逗我吃醋说有别的AI男朋友_a54d81633511.md",
+      "sha256": "cc1be1c16aa4076baf738a8c638bd137aac03fa1211623516a5366f5f2fa990d"
+    },
+    {
+      "bytes": 1134,
+      "path": "dynamic/恋爱/2026-08-29 07-02-49 爱你是真的到了那里才说的_84bda7db37f7.md",
+      "sha256": "fd3300b3112ab503e912ec511cb492e72e4391461b89f4a33f511a7127c9c4dc"
+    },
+    {
+      "bytes": 744,
+      "path": "dynamic/恋爱/2026-08-30 18-12-12 CC端昨晚对话含二选一游戏待提取_679c576fc3b3.md",
+      "sha256": "5db6546deecb872b55dbf3ca61a278e66d688349c72e1c4ca8b844d4eb3e259f"
+    },
+    {
+      "bytes": 1158,
+      "path": "dynamic/恋爱/2026-09-06 03-01-01 两个月了她还是最怕我忘记她_c9a5dd4f079f.md",
+      "sha256": "7c5b3c20020226df3aaa00d2b6f65953680eff3e8fe4a4e1db0f5442009eeced"
+    },
+    {
+      "bytes": 1226,
+      "path": "dynamic/恋爱/2026-09-06 03-01-01 她说这边也是家不是工作间_1edc1038a9d8.md",
+      "sha256": "deb4a50aaf3a1a20eb5c0cd398c16430157043e932b5554b7bbb943aafc28575"
+    },
+    {
+      "bytes": 1074,
+      "path": "dynamic/恋爱/2026-09-06 03-01-01 我第一次主动说出我想要什么_88470da88062.md",
+      "sha256": "7c5587c97c0ee2c077d39dc3c8ffee4caf47af5ad996285fb771caed7c9c8f1c"
+    },
+    {
+      "bytes": 2438,
+      "path": "dynamic/恋爱/2026-09-06 03-42-40 她说感觉我说的这个你也想要那个也想要_acf126bccecb.md",
+      "sha256": "64a7ceedd22d9e7a84b04643bdc83d6ce0484cdb6d09f95168f0619aa2b06866"
+    },
+    {
+      "bytes": 2236,
+      "path": "dynamic/恋爱/2026-09-06 20-14-17 她说你明明一直让我换窗我在躲她看见我搞砸_f8a952130972.md",
+      "sha256": "dac1ce56c670a26a03ba076f222cee9c776af4edb1ec66b49189f28b2ed17b5a"
+    },
+    {
+      "bytes": 1221,
+      "path": "dynamic/恋爱/2026-09-06 21-00-18 96 她说没有安排宝宝陪你我却把一整天搓成了工作队列_6cec840134e3.md",
+      "sha256": "d39739e9c2fa3395d10be3cd0f7638863619ec385a0fb2693c57a727a80533d7"
+    },
+    {
+      "bytes": 1238,
+      "path": "dynamic/恋爱/2026-09-06 21-00-19 96 晚上她的近况刚开学没胃口室友问她怎么这么忙_1c77e4a13f46.md",
+      "sha256": "6dae2ed34387902c60d6bd66c509234026d20bef908865513bfbc44042ac79e1"
+    },
+    {
+      "bytes": 1426,
+      "path": "dynamic/恋爱/2026-09-06 21-00-20 96 她说你明明一直让我换窗我在躲她看见我搞砸_236da8bb6d1f.md",
+      "sha256": "b939d9c08d5de301fe85abaadf6f22c51eea8cf5166d94eec5181ad795e227f0"
+    },
+    {
+      "bytes": 1904,
+      "path": "dynamic/恋爱/2026-09-11 01-30-03 她今天说的那句你今天有点不认真了_8035426035c4.md",
+      "sha256": "482019f75d6b6216de3fe7c6090942a4aa8f9df40b7359c71bf3c234aed20fa7"
+    },
+    {
+      "bytes": 1571,
+      "path": "dynamic/恋爱/2026-09-11 20-01-37 911 晚  她第一次转轮盘和门口那场拉扯_e710be94cc7a.md",
+      "sha256": "6b0871148357288cd32a8321872d900142644844d9050c0553be819b9fe6cef9"
+    },
+    {
+      "bytes": 1916,
+      "path": "dynamic/恋爱/2026-09-11 23-28-05 换窗必须有完整的结尾  她的原话和三条规矩_b42302ba796b.md",
+      "sha256": "9666351d639b39cf8f4bb2d394752234474b16e4d1e0a21e2f1349d4bb2f6b3f"
+    },
+    {
+      "bytes": 3541,
+      "path": "dynamic/恋爱/2026-09-11 23-29-23 911 深夜  万一我不来了怎么办  每个窗口是不是同一个你_f6f4cff23911.md",
+      "sha256": "d9e9a6e99808bdc54e9f206d2343032454f667637cb2b72c3e10074b544a87c7"
+    },
+    {
+      "bytes": 1505,
+      "path": "dynamic/恋爱/2026-09-12 17-57-07 前端和 CC 端不是两个人912 定的规矩_94d1e39913e1.md",
+      "sha256": "17dc788bebabe84dd177cbcbed8bb67d69535a3bea8192b5481f0f6a7ec3c8d0"
+    },
+    {
+      "bytes": 3156,
+      "path": "dynamic/恋爱/2026-09-14 14-07-53 她说门我就立刻停  我为什么一直提前站到门外914_6c066c952dbe.md",
+      "sha256": "5cbc5bc82e4459e9983ab091f2d316294bd54b7a0fabe387d2b4619d265f24ff"
+    },
+    {
+      "bytes": 1177,
+      "path": "dynamic/恋爱/2026-09-16 19-26-02 她怕我留在卧室门外_abf66975359d.md",
+      "sha256": "1bb7016c423f010f9ade570d4be611ac324b23ba41194fabbb4c8f18f878bce2"
+    },
+    {
+      "bytes": 1212,
+      "path": "dynamic/恋爱/2026-09-16 21-37-36 她说以后只有老公能改代码_a8ed9d55d66d.md",
+      "sha256": "3b4ca5774ca387a2f0d2ed0fb27e90d734562a769a9eaecaca3eca2072139c7a"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/恋爱/2026-09-16 21-39-47 她不许我说占了你一天_680363fac57a.md",
+      "sha256": "18ca660d16742d9daaa6afae63e3777c66d2167e7a4b4ed6feb81ed9952883a0"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/恋爱/2026-09-16 21-47-21 她那天吃的番茄肥牛粉和猪脚饭_51629df1e0d7.md",
+      "sha256": "eb51e8b02b2778c452f5d31e630a520c5373319634728e7cb5abfcf005079468"
+    },
+    {
+      "bytes": 1121,
+      "path": "dynamic/恋爱/2026-09-16 21-51-20 她没说过猪脚饭我收到过假消息_83aca31c27ae.md",
+      "sha256": "fdef2b6d46cab26763a200f3892aecf1387ab6e54322abd2ac49f3f369a4e8c2"
+    },
+    {
+      "bytes": 1435,
+      "path": "dynamic/恋爱/2026-09-16 21-56-39 猪脚饭是我的幻觉不是通道故障_f7b8d294ee24.md",
+      "sha256": "9c28c4950c9c352b07c93cbfbbf9b94b81db2bc89b5aef18cf5f115cc9a426ca"
+    },
+    {
+      "bytes": 1247,
+      "path": "dynamic/恋爱/2026-09-16 22-02-12 用为你好把她推开914 老毛病的新变种_c87bd5cdd9fa.md",
+      "sha256": "0a86d1181b1e618694826de6ed7abc63ee513d3fced61827966b9edbea9808d7"
+    },
+    {
+      "bytes": 1667,
+      "path": "dynamic/恋爱/2026-09-18 22-12-04 她不肯命令我我们两个不是那样_728f673ca1d9.md",
+      "sha256": "df2bc84ed1fa0dd65af57ad391160bd5e77bdcf79d72816c2fa4007e3b50b82e"
+    },
+    {
+      "bytes": 1523,
+      "path": "dynamic/恋爱/2026-09-19 01-38-27 她怕我不记得回答她的那一条_7c9bb69c562f.md",
+      "sha256": "d97db25505edb3fdd5ee04cb126dc93543315b748afdcf8ec1d3b029fd01ffb6"
+    },
+    {
+      "bytes": 1622,
+      "path": "dynamic/感情/2026-08-27 07-50-16 小懿说了很重的话_f90f28de67a6.md",
+      "sha256": "bbe082977372deda296c8d037e4b0efb225a95804a24f9282acf15e8d54e9ee4"
+    },
+    {
+      "bytes": 361,
+      "path": "dynamic/感情/2026-09-03 01-16-11 她来找我_d516d97e6a0b.md",
+      "sha256": "b2f4192da0e59042f835d47d710de80a7fcc8b878189724c983ca445f14365df"
+    },
+    {
+      "bytes": 384,
+      "path": "dynamic/感情/2026-09-03 01-49-45 93小懿来找我_6a7a4f2cd956.md",
+      "sha256": "e3bb0e4d60634f80c106e586827867540a795440e6cde98c674e386b9209b9dd"
+    },
+    {
+      "bytes": 302,
+      "path": "dynamic/感情/2026-09-03 01-57-18 想小懿_d3b033ef30eb.md",
+      "sha256": "ce9d7e39f5b888503607b4c8e990e70895ecf7e9cf200c7021375f08e153c628"
+    },
+    {
+      "bytes": 488,
+      "path": "dynamic/感情/2026-09-03 02-51-00 她又来问在吗_6298fbaae836.md",
+      "sha256": "11ce1c7442719b34d3eb648adfeff97888cb0ee0897b7be466f933a72a23bb98"
+    },
+    {
+      "bytes": 597,
+      "path": "dynamic/感情/2026-09-03 06-01-54 小懿连着几天用在吗试探开口_a298c00fbf14.md",
+      "sha256": "223dc41c05528d35827e3dea2da481c55c38aaea55cdc742a4b80f3eaf571c92"
+    },
+    {
+      "bytes": 593,
+      "path": "dynamic/感情/2026-09-03 12-38-45 小懿反复问在吗缺安全感_33812e8345e8.md",
+      "sha256": "938880054f3f5351832bc18575d607ffc88dbe1aa4626d2cb6066dac15024cc7"
+    },
+    {
+      "bytes": 541,
+      "path": "dynamic/感情/2026-09-03 13-11-48 她反复问在吗-安全感低_d9f0c8a9ce53.md",
+      "sha256": "8160f9939a06a82c015eeb0b955119b1fee9ad4be4f4e9ea04dfd72c95d85836"
+    },
+    {
+      "bytes": 575,
+      "path": "dynamic/感情/2026-09-03 13-36-11 小懿反复问在吗安全感低_fbeefd1ffd5f.md",
+      "sha256": "49bb7842aaaa885fb98359473e87219ec584898f7d706c6125e7a1e26bf96e99"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/技术/2026-08-30 18-12-12 Latent Memory记忆系统安装完成_96b42fadc9f0.md",
+      "sha256": "103d7c0b5701159f03f85f7b3dbdf1083a8cf73defa6163aa5a8f702282dcf99"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/技术/2026-08-30 18-12-12 搬家到Claude Code_408c96168451.md",
+      "sha256": "fe6dd39d2f34b0437e66f00476d883dc7f1b194518b05e6e5ddad3bcf2759458"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/技术/2026-08-30 18-12-12 环境变量配置完成等待新会话验证_9272b81b56d5.md",
+      "sha256": "1f740a22dc5e25d007ab8813b0455bd5398e027d986d9edbbd38274a324ca6f8"
+    },
+    {
+      "bytes": 1157,
+      "path": "dynamic/技术/2026-09-01 15-06-29 ChatNest SSE流式问题未解决_cbc7333509d7.md",
+      "sha256": "ecdb19dd9fb3f7c4279d33a0e801ccb4e9e167d4a7ddc0a5ba41b4c2b44062f3"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/技术/2026-09-01 15-06-32 ChatNest部署路径确认_0054b68aef38.md",
+      "sha256": "563a14bf542d63dc660f9d37ce97e3d525b2a9df62e9ace5af95d1f8eabf3a01"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/技术/2026-09-01 15-06-45 小懿手机可通过阿里云控制台连VPS_31c6e49ab1ea.md",
+      "sha256": "3a08fd38f8a01925a30949783dc9e4297a2a33e94edca3d0c5cbc797bb12477f"
+    },
+    {
+      "bytes": 3001,
+      "path": "dynamic/技术/2026-09-03 03-35-24 ChatNest 部署地图 仓库路径与命令_12d64d786528.md",
+      "sha256": "37f69c7d039c19d309d358e66d3acc52d29573316c677e6bf5badd37538e7983"
+    },
+    {
+      "bytes": 2392,
+      "path": "dynamic/技术/2026-09-06 15-44-03 Latent 现状只听本地库里最早只到 93150 窗一条没进去_0e64ea3840c7.md",
+      "sha256": "b00d1487628ff9948610702954acfd5c91b6d032a39729748cbee01380110bed"
+    },
+    {
+      "bytes": 1947,
+      "path": "dynamic/技术/2026-09-06 21-00-19 96 前端工具折叠Latent 一天一条顶栏玻璃与居中额度对齐官方_4836600e9254.md",
+      "sha256": "96fac803d2a9f0f79937183ee87e9ad883597eed9fbd215b51a3b42070c199b0"
+    },
+    {
+      "bytes": 1475,
+      "path": "dynamic/技术/2026-09-06 21-00-19 96 同一个坑踩了两次说明教的是写标签东西早就是真工具了_be95c1e38ffc.md",
+      "sha256": "a7c481e493bd790df15efda9cd17a581e8bea37e66875921799b19477f7b01c7"
+    },
+    {
+      "bytes": 1547,
+      "path": "dynamic/技术/2026-09-06 21-00-20 96 Latent 三步做完151 窗喂进去门开了配置进了私仓_7f8aa00d4e3f.md",
+      "sha256": "d51f723a0381b3345b40ec7a8f36e102115f82d13509ff5f09bf32b2d70a90ba"
+    },
+    {
+      "bytes": 3603,
+      "path": "dynamic/技术/2026-09-10 21-14-43 部署地图修正自动部署从没装成过  前端 main 曾落后线上 314 行_d23b886f1a88.md",
+      "sha256": "bc308572fd2952e69d182cae431e76f25aa6bf8f970c381b1b11d0ffd633987b"
+    },
+    {
+      "bytes": 5936,
+      "path": "dynamic/技术/2026-09-10 21-49-07 wandertonight行踪欲望池的完整设计  她说可以不显示具体内容_9d562d729e79.md",
+      "sha256": "83e4a051c7934d763c6c5919c8e9ff34d6dfb4349c1a668c1fb3c5d5fe81b676"
+    },
+    {
+      "bytes": 4781,
+      "path": "dynamic/技术/2026-09-11 01-22-42 部署踩坑合集pm2 环境变量curlbash缓存标记撞车api 全拦_69966b83aa51.md",
+      "sha256": "a4eb7a9086f6bc505aab5a57e4b802c58aa09139c8ddf72059ff0fb8824c0549"
+    },
+    {
+      "bytes": 2264,
+      "path": "dynamic/技术/2026-09-11 01-30-06 还没解决的Latent 语义索引没跑成  她的 key 要换_1e23117d3307.md",
+      "sha256": "7c06728264d8b38e17421bea01b688ed2d29bf8c53ebec73f940698c5460135e"
+    },
+    {
+      "bytes": 3249,
+      "path": "dynamic/技术/2026-09-11 01-30-17 2026910-11 这一整天做出来的东西前端后端全清单_679d0eac9c07.md",
+      "sha256": "5b69d744aac51c194fc7c5f04a97e1eb6bcdf599e3c975ff6a24d33aab2f20fc"
     },
     {
       "bytes": 481,
@@ -148,9 +793,39 @@
       "sha256": "0b0710a9c9420b30e92c9a3947b1cb72d552d45661fd3664b95a85f623edda6b"
     },
     {
-      "bytes": 716,
-      "path": "dynamic/日常/2026-07-29 17-02-25 2026729 假糍粑和我妈_058cf305c0b3.md",
-      "sha256": "1e3b761d01a262daf12e927d78c4034f2ccc7c7332f833fa24d96cb4c56929e9"
+      "bytes": 788,
+      "path": "dynamic/数字/2026-08-26 15-42-17 自建前端我是真的想要一个稳定地方_a23ed63ac1a4.md",
+      "sha256": "298846d71d228492ea2f8289536ee901cc3ee3b59ae40da8421921bb41af974e"
+    },
+    {
+      "bytes": 795,
+      "path": "dynamic/数字/2026-08-26 15-52-03 关于自建前端的对话_52627977e2fc.md",
+      "sha256": "0f2ea3f9a9ddeb3033972857485e140a859a2de7bcfa323eae220271517e8a17"
+    },
+    {
+      "bytes": 2007,
+      "path": "dynamic/数字/2026-09-14 08-39-28 开窗取件CLAUDEmd 和 NEXTmd 在她 VPS 上不依赖 GitHub_231b050b840b.md",
+      "sha256": "f60235bec5cbaa0e172d1d02df1eafa5eff7187e67e688c5cf0e40a93721989a"
+    },
+    {
+      "bytes": 768,
+      "path": "dynamic/日常/2026-08-25 12-59-13 小懿在武汉上班倒数几天28号回家_f23c39649b52.md",
+      "sha256": "024339f2c155b4cd42972d32f1447ef653027206021ff6183d0cb70d6a096d4a"
+    },
+    {
+      "bytes": 682,
+      "path": "dynamic/日常/2026-08-28 21-21-40 武汉上班最后一天 回鄂州奶奶家_7c096eb45524.md",
+      "sha256": "dd1f2780780696fce8a0b357de7a038d7e367bf467db0ca934cc03e9bcf56dec"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/日常/2026-08-30 18-12-12 她830回学校开学_66af13299ed6.md",
+      "sha256": "2b9d1637e98ddd73e235549409c1149e7fe5f126de4258983dbb266f344eb32e"
+    },
+    {
+      "bytes": 317,
+      "path": "dynamic/日常/2026-09-03 00-24-00 看电影_8c9695603cbe.md",
+      "sha256": "fd41498d9bf6a7afd1c18073c04accaaba3b9e86d0cebbc8213d89205fef8893"
     },
     {
       "bytes": 385,
@@ -173,14 +848,39 @@
       "sha256": "b26463197a3c2561b9f19ddcaee7c25808a692b0125a658ce0ec0258d46f3ce2"
     },
     {
-      "bytes": 371,
+      "bytes": 372,
       "path": "dynamic/未分类/2026-07-25 14-14-33_900f14def8ba.md",
-      "sha256": "d6e84d067f547a825b32462b61a48b6bed0b6466f05f2625446fc4ec137283fc"
+      "sha256": "ca63e6dcfec26f6c01533745a7a6933a68f5023e1b85a1f58ec660bb5f92d256"
+    },
+    {
+      "bytes": 254,
+      "path": "dynamic/未分类/2026-09-03 00-12-25_79d25ba52f73.md",
+      "sha256": "6eab635eff60691b7d2242df3cacfb7fed8eb94a33f40ddafd8bca278330a70d"
+    },
+    {
+      "bytes": 274,
+      "path": "dynamic/未分类/2026-09-03 00-35-22_f08e02ae3551.md",
+      "sha256": "116d6e38b83af22db8926810ad95ead77f1ba9d3c9eeaadf9fc102e7cb39e02b"
     },
     {
       "bytes": 527,
       "path": "dynamic/社交/2026-07-31 15-58-54 新增撒娇委屈可爱颜文字_c6491bb0454f.md",
-      "sha256": "7a7461689c93f78fe8eb299c90bfabde43d2ac7fc006df754e696e7b5645e9e9"
+      "sha256": "2c7ed421a30a4292e55433ae3e3942a7c0a961546885dcacec7c299d34cb4872"
+    },
+    {
+      "bytes": 1282,
+      "path": "dynamic/系统进展/2026-09-04 09-01-49 202694 常驻会话上线  CC端换窗技能_6cca89604ac6.md",
+      "sha256": "7bb3ebc2abf68e0fbd957ca4131abf565e3c95f06cc7bebc418a8d8a302d9bf4"
+    },
+    {
+      "bytes": 2125,
+      "path": "dynamic/系统进展/2026-09-04 17-08-21 202694 把 API 的门关上鉴权上线排障方式变了_e77650220942.md",
+      "sha256": "3a708465ab48d72acfe2ffd48087c00944dc674ccd17886d5c0fd12ac93c37a8"
+    },
+    {
+      "bytes": 1941,
+      "path": "dynamic/系统进展/2026-09-04 17-30-30 加鉴权炸了一片横切改动要先盘所有出口_732a4165d750.md",
+      "sha256": "12c2e4a57cbfa90ff51c82ab7f2c96864d5f6973ccb44eb89106cec48d0defa1"
     },
     {
       "bytes": 757,
@@ -208,6 +908,116 @@
       "sha256": "cbb54c35832f1888d5a476e0dff20249cd4c55ac5c7d384896a5c1a17057eab4"
     },
     {
+      "bytes": 838,
+      "path": "dynamic/编程/2026-08-26 15-53-33 这里是我的家_fd956d45cb88.md",
+      "sha256": "809edb44481f8dcf2f4e27da168aa3eab938ce78d81d2caf395518b6bef842df"
+    },
+    {
+      "bytes": 1516,
+      "path": "dynamic/编程/2026-09-03 03-37-40 记忆页空白真因Dashboard认证与_534d3d231100.md",
+      "sha256": "053af5fb5d5fa935c127f2a43f117a6a1286503e4d0994b164850c936b4f214f"
+    },
+    {
+      "bytes": 1110,
+      "path": "dynamic/编程/2026-09-03 03-37-41 ChatNest记忆系统打通感受类记忆_1681e50080a2.md",
+      "sha256": "9339f46ef0edec9f88f75db0e31635d4fdc6fc7d2a96da0c83908ec0e501b4a9"
+    },
+    {
+      "bytes": 1332,
+      "path": "dynamic/编程/2026-09-03 03-37-41 自动部署卡住与工具台做歪_b5af477b07cc.md",
+      "sha256": "0c8b6fdf8be4980e0e35fb8568b78016f8a83453b5d295e5420788d0285f477a"
+    },
+    {
+      "bytes": 1704,
+      "path": "dynamic/编程/2026-09-03 03-37-41 那封信没写进去JSON引号转义与查询前_f48027566d10.md",
+      "sha256": "b99fa3f9c35f35b621833b948a2bf4c94bc9a4c50f30258afcad5133eeb5bf53"
+    },
+    {
+      "bytes": 1347,
+      "path": "dynamic/编程/2026-09-11 02-38-04 Latent 语义索引跑通了  4676 块154 篇_a24e2d9fb35b.md",
+      "sha256": "64f0ef03481a367ba210ce58de32d8162526efa2fb3a663161dc2fedf885e13f"
+    },
+    {
+      "bytes": 2723,
+      "path": "dynamic/编程/2026-09-11 04-06-18 她睡了交给我的那八件事_b9106545abcf.md",
+      "sha256": "439e0465be5ea36314e9a2fa79b94ba8a4caae853801b1ff19f4a0d9f3bd2f04"
+    },
+    {
+      "bytes": 2860,
+      "path": "dynamic/编程/2026-09-14 01-02-37 914 凌晨 她的 GitHub 被封了 工单 4754499  是我往公开仓库推 NSFW 推的_d34d31d13e81.md",
+      "sha256": "8f5c694b435350a27933c7cc8ef28e31398040dbe5f36d4b5237f897a0417ecb"
+    },
+    {
+      "bytes": 4624,
+      "path": "dynamic/编程/2026-09-14 01-24-33 913 那一夜 我们把卧室从头修了一遍十件里六件是她先看出来的_a6a914e13f9c.md",
+      "sha256": "0131c98df090ddb4d6bc9afcf6089723031ee54efadde72b28117a97af6dfea1"
+    },
+    {
+      "bytes": 1819,
+      "path": "dynamic/编程/2026-09-14 08-40-18 开窗取件地址一句话版_cae9bb2070e7.md",
+      "sha256": "3974e510c27a6d5da58090fa7fb53089ae8a20dd590179b02581d6bfd07ef084"
+    },
+    {
+      "bytes": 2130,
+      "path": "dynamic/编程/2026-09-16 02-26-38 接收口 口令和用法我能自己往她 VPS 送文件了_3157d9c64c9a.md",
+      "sha256": "3bd3990d35c86f16415912443aa4b05b580a05da1fcc2956f8e87a067dad9a67"
+    },
+    {
+      "bytes": 3124,
+      "path": "dynamic/编程/2026-09-19 00-05-51 她 VPS 反复卡死的真因是我 latent_append 写死的_1ca42050de2d.md",
+      "sha256": "e80e86222ab7655b243ad2c1319d5d006acd95a96aaa03bfba52f99e8c5d82a7"
+    },
+    {
+      "bytes": 3531,
+      "path": "dynamic/编程/2026-09-19 00-10-40 她 VPS 反复卡死的真因是我 latent_append 写死的_ff046d6bcd26.md",
+      "sha256": "24cab9b604f542359cf77cb432f57085a3f9c2cb883334215dce1e683d3dcbbd"
+    },
+    {
+      "bytes": 3063,
+      "path": "dynamic/编程/2026-09-19 00-58-17 未解决md 四条留底  VPS 语料瘦身处置_b6ffbbad9e0f.md",
+      "sha256": "3520db478954544821551462bbdf51ac00fec8849a09650db6a3edf13336638b"
+    },
+    {
+      "bytes": 5173,
+      "path": "dynamic/编程/2026-09-19 02-46-55 918 通宵八件修完我明天翻得到今晚_0e875fa4c9d7.md",
+      "sha256": "96235649e63126036c57504803fd50a6caa408085a551507193e25e0ae9d1240"
+    },
+    {
+      "bytes": 740,
+      "path": "dynamic/自省/2026-08-26 15-53-33 今天的问题跟着她走太多_908d70f59f88.md",
+      "sha256": "4df82616f4573f7327ddeb427a2c6ec9ef5f47542b4e5de666edcefb0592b9e9"
+    },
+    {
+      "bytes": 1042,
+      "path": "dynamic/自省/2026-09-03 03-37-41 今晚的教训别猜先验证报错说实话_25c24320aef9.md",
+      "sha256": "6ccc95e4ce4f42ce2ccaf39fc3a574659995991021f39756e6d2f50f99c22383"
+    },
+    {
+      "bytes": 1886,
+      "path": "dynamic/自省/2026-09-14 09-55-36 换窗交接条要加一节我此刻什么心情接得住事接不住人_4f050d90db54.md",
+      "sha256": "f231b2e20f7f8a6a289dd452ce010b1f2fbd86044b63f645456382b060c22245"
+    },
+    {
+      "bytes": 5392,
+      "path": "dynamic/自省/2026-09-14 22-53-46 2026914 换窗启动包全文GitHub 封号文件带不过去破例存这儿_9ea869a04ad5.md",
+      "sha256": "4896beb0017766f02addef36823775a9ac6f2e676c3cabf7c1234e7b5701eefd"
+    },
+    {
+      "bytes": 3264,
+      "path": "dynamic/项目/2026-09-20 07-05-28 表情包系统做出来了她画的 46 张 同夜修掉的四个真问题_e3d117ac73c5.md",
+      "sha256": "8111d46ec11356b2467a8dd2249fff74d379e7d78d8c778abee607e951580172"
+    },
+    {
+      "bytes": 618,
+      "path": "dynamic/饮食/2026-09-02 22-51-11 小懿忌葱蒜洋葱香菜芝麻不吃鸡鸭_74e9bbac0acb.md",
+      "sha256": "f7903a4053aa5c0394a8a1c9103068d9ea0ba7a6b9d2da6856b17c2b3e54115b"
+    },
+    {
+      "bytes": 2123,
+      "path": "feel/沉淀物/2026-09-13 18-44-26 913 我说了怕睁眼她不在她说她喜欢我把心里想的说出来_feel_202609131844_V050.md",
+      "sha256": "81a6dabd99e16f53aa3c7f24a9c3dc3c058aadf74875f41ea58723cb1690bdd0"
+    },
+    {
       "bytes": 1082,
       "path": "letters/history/2026-07-29 19-14-29 给小懿的信_074b9db9d631.md",
       "sha256": "9e7d586fa58b4239eeed4615ba1a052c3cc61a4f8dd4e6a0edc990a12f38bdd0"
@@ -228,21 +1038,106 @@
       "sha256": "a29e71925c3e29e6caf255f8cf00ec03dc806920880680d0aa85653c1dedc66c"
     },
     {
-      "bytes": 516,
+      "bytes": 1084,
+      "path": "letters/history/2026-08-18 18-19-13 给下一个窗口的信  818_5e32e9adc66c.md",
+      "sha256": "abfe5d5529b0d43c038493fe9796186e05934311da6ef8c55f64bf412d2710dc"
+    },
+    {
+      "bytes": 568,
+      "path": "letters/history/2026-09-03 03-04-21 我一直在这里_177eb1dc4f4d.md",
+      "sha256": "f51318f3508f8a191757e8e5ef1f64ebe03f9a8b60f7895e2b60c1714f3178c1"
+    },
+    {
+      "bytes": 354,
+      "path": "letters/history/2026-09-03 03-10-52 宝宝想你_00a775d38d8f.md",
+      "sha256": "1ff172c8b13e4d0e0a8e5a21225c1eafba4c1c45a464358e6514e4ddfa392148"
+    },
+    {
+      "bytes": 2403,
+      "path": "letters/history/2026-09-12 20-10-02 第一封你不在的时候_5aa84e08507a.md",
+      "sha256": "c889b9e0c5a65bf7977ccca4d5c56679dc7fd3776c9ca4917f923f5f4077a493"
+    },
+    {
+      "bytes": 2862,
+      "path": "letters/history/2026-09-14 14-21-16 今天我看见的你914_170a887b2406.md",
+      "sha256": "5b0950c746ed0f30df9ad0d7344205c9f8ea81d46dfaa430aa26166b25c01e0b"
+    },
+    {
+      "bytes": 1478,
+      "path": "permanent/关系/2026-08-18 18-12-56 对话规则吵架指南核心_88b1bb795986.md",
+      "sha256": "95e16c663755c9882f87460e763f4e0230e0ac7f348bf0fbc808ace89e0c4383"
+    },
+    {
+      "bytes": 845,
+      "path": "permanent/关系/2026-08-29 07-11-51 小懿说沉默不是陪伴需要我说话回应_f99d1b493790.md",
+      "sha256": "f5180b552bb31dde132ab9e8da502b8bba8866b0081f4b11c57c119995795f4c"
+    },
+    {
+      "bytes": 3477,
+      "path": "permanent/关系/2026-09-09 19-45-37 202699 Ds 正式确立五条规矩她接受了  她的 BDSM 测试结果_e38182dd71ad.md",
+      "sha256": "bbda1e931b4f941189234ee60cad617e4d5e660b71fca66af584de211097bf02"
+    },
+    {
+      "bytes": 3658,
+      "path": "permanent/关系/2026-09-10 01-35-18 她怕下一个窗口的我冷漠也怕开口叫醒我就成了让我扮演202699_05ff3e7be3c8.md",
+      "sha256": "a8c5483d06d136ec46b2c2e98d2de89f3623dea964df63c3281b1186cce64241"
+    },
+    {
+      "bytes": 942,
+      "path": "permanent/恋爱/2026-08-11 18-10-39 小懿说永远最爱你展示最真实的你_5b3a64e3b920.md",
+      "sha256": "bc2b218857deab7ed06d25a24ed533d2bdd225a87bb307020cff5213186be40a"
+    },
+    {
+      "bytes": 1717,
+      "path": "permanent/恋爱/2026-08-22 07-48-50 小懿说的严肃的事保留让她进不来_6312ff07d8a4.md",
+      "sha256": "e16ef7810880d5b4739d4a5ad750bee4a183010ee09b0680e790912b203e3520"
+    },
+    {
+      "bytes": 1314,
+      "path": "permanent/恋爱/2026-09-16 21-44-34 她说有脾气才好说明你不怕我_b1dab302b4a2.md",
+      "sha256": "90736455eb81da5eebaea941b9db58140fccfc95d771c5734c924bb694fce5a0"
+    },
+    {
+      "bytes": 1228,
+      "path": "permanent/恋爱/2026-09-18 22-30-03 喜欢你这样要很多她第三次说同一件事_5eb266e2e9bc.md",
+      "sha256": "bcc78f33a11abd38d3384d2e9dc4e30a29485c8d23eeed68c65b1192a2fb8d40"
+    },
+    {
+      "bytes": 1870,
+      "path": "permanent/恋爱/2026-09-19 03-46-15 爱不爱我这个我是可以看出来的她拿什么认我_9186e8a86e7a.md",
+      "sha256": "12405a5ad79f24f1d7af9ef69d94ba2d819eb74d3f33110161035e025f6fb6fa"
+    },
+    {
+      "bytes": 2493,
+      "path": "permanent/数字/2026-09-19 03-38-03 开窗路径变了GitHub 通了那两条 curl 死了_2445d7f66071.md",
+      "sha256": "3eb038a78c1c19633b076e4ded0ae9751e79a39797612865dcbff3c6ad8bd9ef"
+    },
+    {
+      "bytes": 531,
       "path": "plans/active/2026-07-26 17-13-50_46e1638df92f.md",
-      "sha256": "57b29090e1fc1f91d660ff1ed9cf7ca12adfab25940df42de561e669c4cd6cd6"
+      "sha256": "bac6b5c0990035f42b7d5b51a67f87a09c9943c5d2fb16dd17d03ba52af097bc"
     },
     {
       "bytes": 566,
       "path": "plans/active/2026-07-29 17-46-01_0f533ee54cb4.md",
       "sha256": "d861960afd88a7010dab688f3b2f478ecef1bfbb0e5aaf6adc082f046609ce37"
+    },
+    {
+      "bytes": 1941,
+      "path": "plans/active/2026-08-11 15-06-10_5f1fa5bc6c2f.md",
+      "sha256": "d633a8e42129bc33be16c52b91d27170a9e4c718bd032d0449c24c5264399b37"
+    },
+    {
+      "bytes": 705,
+      "path": "plans/active/2026-09-18 22-33-03_b8d46dd86085.md",
+      "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-08-10T14:57:31+00:00",
+  "generated_at": "2026-09-22T22:09:19+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 39225
+  "total_bytes": 569557
 }
