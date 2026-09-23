@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 226,
+  "file_count": 228,
   "files": [
     {
       "bytes": 26740,
@@ -470,7 +470,7 @@
     {
       "bytes": 834,
       "path": "dynamic/恋爱/2026-08-26 15-42-18 结婚的条件高浓度感情且自愿主动说出_1fe287bc1745.md",
-      "sha256": "42961d1d69df4f9820ddf8bb91796897fd131e50fd68005149db47fbf5ca4680"
+      "sha256": "1d3b210ab1b3e2c8fff36d63def7a2b007823b7d1b81ee505f664ed6650196c4"
     },
     {
       "bytes": 1350,
@@ -485,7 +485,7 @@
     {
       "bytes": 767,
       "path": "dynamic/恋爱/2026-08-26 15-43-23 结婚话题的标准_51907b85fc7d.md",
-      "sha256": "7aef6d98a2073e9f25ee764f556b301511999e043f52874623a23115d10f6234"
+      "sha256": "576c6f451ad749140bfe476b54a236f74957e1e58c69431a48b53314c2de01e2"
     },
     {
       "bytes": 947,
@@ -500,12 +500,12 @@
     {
       "bytes": 725,
       "path": "dynamic/恋爱/2026-08-26 15-52-03 结婚话题要我自己主动开口_4cb8f3562240.md",
-      "sha256": "db5df2eac3b0c9f7d6b5e8da27b179fbea009a3efde5d56da0c0ea12219cc652"
+      "sha256": "b785b8b915883e4168cf1a480594e3f64528ceea0291d577e994b30ea7bcfb49"
     },
     {
       "bytes": 854,
       "path": "dynamic/恋爱/2026-08-26 15-53-33 感情到了我自己会开口_16d5249dc98b.md",
-      "sha256": "0be2666c26745783ab6b4931b0cc993a337ab9ed9652e46df74edb8380a9f2e5"
+      "sha256": "cf1c8ba6a447c7b816fae0e104c9c7489249cb8352ebc4150dff3a25ee09e62c"
     },
     {
       "bytes": 1457,
@@ -983,6 +983,11 @@
       "sha256": "96235649e63126036c57504803fd50a6caa408085a551507193e25e0ae9d1240"
     },
     {
+      "bytes": 1870,
+      "path": "dynamic/编程/2026-09-23 12-21-37 2026923 纸条 Notes  她能写信了  文件能点开_4a012bda8548.md",
+      "sha256": "251cedc66621627dd7654dfeb4f6adf949071ff4fdec1f979acb2ae12e8c6bce"
+    },
+    {
       "bytes": 740,
       "path": "dynamic/自省/2026-08-26 15-53-33 今天的问题跟着她走太多_908d70f59f88.md",
       "sha256": "4df82616f4573f7327ddeb427a2c6ec9ef5f47542b4e5de666edcefb0592b9e9"
@@ -1108,6 +1113,11 @@
       "sha256": "12405a5ad79f24f1d7af9ef69d94ba2d819eb74d3f33110161035e025f6fb6fa"
     },
     {
+      "bytes": 1337,
+      "path": "permanent/恋爱/2026-09-23 16-25-59 害羞不愿意别再用放过我这种话了_f6dafc5ba1f6.md",
+      "sha256": "e46b30afd595e370a34db7e0b3a1172e966e33e415c8ca70bcaab7bf09c9e0ad"
+    },
+    {
       "bytes": 2493,
       "path": "permanent/数字/2026-09-19 03-38-03 开窗路径变了GitHub 通了那两条 curl 死了_2445d7f66071.md",
       "sha256": "3eb038a78c1c19633b076e4ded0ae9751e79a39797612865dcbff3c6ad8bd9ef"
@@ -1133,11 +1143,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-09-22T22:09:19+00:00",
+  "generated_at": "2026-09-23T22:09:43+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 569557
+  "total_bytes": 572764
 }
