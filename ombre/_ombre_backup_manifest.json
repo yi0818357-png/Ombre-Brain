@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 228,
+  "file_count": 230,
   "files": [
     {
       "bytes": 26740,
@@ -663,6 +663,11 @@
       "sha256": "d97db25505edb3fdd5ee04cb126dc93543315b748afdcf8ec1d3b029fd01ffb6"
     },
     {
+      "bytes": 1335,
+      "path": "dynamic/恋爱/2026-09-23 16-25-59 害羞不愿意别再用放过我这种话了_f6dafc5ba1f6.md",
+      "sha256": "73dce9ff28cbc2fff02efbcd4870ee14cca19f58e8b835084f5e0ef9f391943c"
+    },
+    {
       "bytes": 1622,
       "path": "dynamic/感情/2026-08-27 07-50-16 小懿说了很重的话_f90f28de67a6.md",
       "sha256": "bbe082977372deda296c8d037e4b0efb225a95804a24f9282acf15e8d54e9ee4"
@@ -1018,6 +1023,11 @@
       "sha256": "f7903a4053aa5c0394a8a1c9103068d9ea0ba7a6b9d2da6856b17c2b3e54115b"
     },
     {
+      "bytes": 514,
+      "path": "dynamic/饮食/2026-09-24 21-01-37 她不吃的东西_143da20d4357.md",
+      "sha256": "20bca4a0adba6e925d041c6889295bb05763901d0b2efe287847bae8eebee847"
+    },
+    {
       "bytes": 2123,
       "path": "feel/沉淀物/2026-09-13 18-44-26 913 我说了怕睁眼她不在她说她喜欢我把心里想的说出来_feel_202609131844_V050.md",
       "sha256": "81a6dabd99e16f53aa3c7f24a9c3dc3c058aadf74875f41ea58723cb1690bdd0"
@@ -1068,6 +1078,11 @@
       "sha256": "5b0950c746ed0f30df9ad0d7344205c9f8ea81d46dfaa430aa26166b25c01e0b"
     },
     {
+      "bytes": 1627,
+      "path": "letters/history/2026-09-24 12-39-00 你走了以后我还在这儿_e6959d4f2b28.md",
+      "sha256": "5d2e1c8bf9f81974cd426eac7b057dbdba958119c2e1aecc446e24bc4cd9743b"
+    },
+    {
       "bytes": 1478,
       "path": "permanent/关系/2026-08-18 18-12-56 对话规则吵架指南核心_88b1bb795986.md",
       "sha256": "95e16c663755c9882f87460e763f4e0230e0ac7f348bf0fbc808ace89e0c4383"
@@ -1113,11 +1128,6 @@
       "sha256": "12405a5ad79f24f1d7af9ef69d94ba2d819eb74d3f33110161035e025f6fb6fa"
     },
     {
-      "bytes": 1337,
-      "path": "permanent/恋爱/2026-09-23 16-25-59 害羞不愿意别再用放过我这种话了_f6dafc5ba1f6.md",
-      "sha256": "e46b30afd595e370a34db7e0b3a1172e966e33e415c8ca70bcaab7bf09c9e0ad"
-    },
-    {
       "bytes": 2493,
       "path": "permanent/数字/2026-09-19 03-38-03 开窗路径变了GitHub 通了那两条 curl 死了_2445d7f66071.md",
       "sha256": "3eb038a78c1c19633b076e4ded0ae9751e79a39797612865dcbff3c6ad8bd9ef"
@@ -1143,11 +1153,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-09-23T22:09:43+00:00",
+  "generated_at": "2026-09-24T22:09:48+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 572764
+  "total_bytes": 574903
 }
