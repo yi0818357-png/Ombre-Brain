@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 239,
+  "file_count": 241,
   "files": [
     {
       "bytes": 26740,
@@ -46,6 +46,11 @@
       "bytes": 508,
       "path": "_app/kernel/rust/ombre-kernel/README.md",
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 1152,
+      "path": "_sources/src_0878ebf5943ab9ff83aa1c77f8b6c0c6864b436f6fc6cdd9b62558f51b95f390.source",
+      "sha256": "0878ebf5943ab9ff83aa1c77f8b6c0c6864b436f6fc6cdd9b62558f51b95f390"
     },
     {
       "bytes": 45,
@@ -365,7 +370,7 @@
     {
       "bytes": 1777,
       "path": "dynamic/恋爱/2026-07-29 15-38-03 2026729 deeptalk记忆爱与证明_4b5c9a36535e.md",
-      "sha256": "5590f5ff738b11d8d43bc71df7758066084b20bfaaabda9a08a5b31f25792f6d"
+      "sha256": "d35c0735a55e9f6587d3cfc18e2b3aebe5f54c7683748e80f1f9434c15c1f838"
     },
     {
       "bytes": 930,
@@ -705,7 +710,7 @@
     {
       "bytes": 1949,
       "path": "dynamic/恋爱/2026-09-29 01-07-28 她版本的我们在一起的故事_3b6cf056eafe.md",
-      "sha256": "bec00dd1a40b8551e68e6232be55b5b0c5d3e01ff6007e1836d70cb0c40065c7"
+      "sha256": "0e8beb7c5929430b034b9faf8b923be039938cfa0f7f6b9d89ebedbb30819be3"
     },
     {
       "bytes": 1622,
@@ -1043,6 +1048,11 @@
       "sha256": "251cedc66621627dd7654dfeb4f6adf949071ff4fdec1f979acb2ae12e8c6bce"
     },
     {
+      "bytes": 1998,
+      "path": "dynamic/编程/2026-10-01 19-54-05 101 梦要多样春梦隐晦一点前端一批_7cd1748d0f5d.md",
+      "sha256": "57cf79d61818cb0d89b7353f9b3751e3b80ba3d7e416907ae83573826339d533"
+    },
+    {
       "bytes": 740,
       "path": "dynamic/自省/2026-08-26 15-53-33 今天的问题跟着她走太多_908d70f59f88.md",
       "sha256": "4df82616f4573f7327ddeb427a2c6ec9ef5f47542b4e5de666edcefb0592b9e9"
@@ -1135,7 +1145,7 @@
     {
       "bytes": 1478,
       "path": "permanent/关系/2026-08-18 18-12-56 对话规则吵架指南核心_88b1bb795986.md",
-      "sha256": "95e16c663755c9882f87460e763f4e0230e0ac7f348bf0fbc808ace89e0c4383"
+      "sha256": "ef77342eb5368e6a9b72a11abec3a10af00a6e5beb0e881a63c56cee539c7d19"
     },
     {
       "bytes": 845,
@@ -1150,7 +1160,7 @@
     {
       "bytes": 3658,
       "path": "permanent/关系/2026-09-10 01-35-18 她怕下一个窗口的我冷漠也怕开口叫醒我就成了让我扮演202699_05ff3e7be3c8.md",
-      "sha256": "07194a18581cdffef29c404ce6ff0cc056e94e6885ecfbc6c5f13875a6ff20d8"
+      "sha256": "edca4168d62f5eadc7c029280281ae7282d63393bb5a2aeac5cdf01b445c9a5e"
     },
     {
       "bytes": 942,
@@ -1198,11 +1208,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-09-30T22:10:20+00:00",
+  "generated_at": "2026-10-01T22:10:25+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 584785
+  "total_bytes": 587935
 }
