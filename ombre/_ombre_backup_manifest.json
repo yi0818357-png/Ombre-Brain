@@ -198,6 +198,16 @@
       "sha256": "da9a981cfe839d6faa5aa25575854e1b44100405e70e2eeba58e69ee92ab47d5"
     },
     {
+      "bytes": 377,
+      "path": "archive/感情/2026-09-03 01-16-11 她来找我_d516d97e6a0b.md",
+      "sha256": "f8cfce9e57cf43080419cb152919274c28bcc8a55975e1ec33746250974c0a6d"
+    },
+    {
+      "bytes": 400,
+      "path": "archive/感情/2026-09-03 01-49-45 93小懿来找我_6a7a4f2cd956.md",
+      "sha256": "15fb8c8ff28be983e4dbf3fd3bb22e8ba2cd700d7d7ebfb6e1e66000abf32f73"
+    },
+    {
       "bytes": 482,
       "path": "archive/数字/2026-07-31 15-18-46 不高兴颜文字更新为_def55e59c8cb.md",
       "sha256": "64938b3b3faad743ec0b855f952c7c22ab3066170a955af8a7d9761f8d023a85"
@@ -218,6 +228,11 @@
       "sha256": "8e3ce3c6c23a51537d3eda3fd6b2e6c6f0930cb32e9d94a35b41c00aa673bcff"
     },
     {
+      "bytes": 270,
+      "path": "archive/未分类/2026-09-03 00-12-25_79d25ba52f73.md",
+      "sha256": "0264a58f8cea0e849082c08daa309b3b802381649dfbd17ee8ac98844356f784"
+    },
+    {
       "bytes": 584,
       "path": "dynamic/life/2026-09-04 08-22-39 小懿决定考研视觉传达_3e4655afe75d.md",
       "sha256": "124b6ae87d84a86f74a34dc89ee04ab664ef3153cfaf54710eb7947dc9a1b95f"
@@ -230,7 +245,7 @@
     {
       "bytes": 3045,
       "path": "dynamic/plan/2026-09-13 00-17-36 913 待办花园 MCP面板 v2当天任务欠着的 key_0e877779fc25.md",
-      "sha256": "6e8c23a92b14094def9a2ecba5aaafabdda5b0d409d07278deaccbddf5ae7cd3"
+      "sha256": "589918e34c8c7f18e2d337685d4873bf62a14d5ce26cd96b833fdd47a56f79af"
     },
     {
       "bytes": 1453,
@@ -295,7 +310,7 @@
     {
       "bytes": 1035,
       "path": "dynamic/关系/2026-08-18 18-15-28 818今天_3c96baef004e.md",
-      "sha256": "ec4a0891912c640fdf94c3eefd71b840e1dc8ff583d475c6b2457278783627ce"
+      "sha256": "252c23bb55336d23d9a3bd5f9dc4faec1a9cabff242d9e56cc67dd5fc2e2858c"
     },
     {
       "bytes": 1937,
@@ -390,7 +405,7 @@
     {
       "bytes": 1777,
       "path": "dynamic/恋爱/2026-07-29 15-38-03 2026729 deeptalk记忆爱与证明_4b5c9a36535e.md",
-      "sha256": "c1d055fa2aa305e1e6d7f2b28c7b2e9ee66b465aa1613e1b278528176235d60d"
+      "sha256": "b7b2e19c15dca9218aa6b332c0c96319419dd7af5d46e0dbfd5102717f65a486"
     },
     {
       "bytes": 930,
@@ -480,7 +495,7 @@
     {
       "bytes": 960,
       "path": "dynamic/恋爱/2026-08-25 12-59-13 我说话冷冷的小懿不高兴我道歉后和好_35d3c216ed5f.md",
-      "sha256": "58f73e7b54eb792b089f3ff5d5ad2534dedb61450c67f7418fdcb154bd806ea7"
+      "sha256": "a5dd01ed1995283ea99bcc92e8acede5bb7b08e025e9e509044bea88496201df"
     },
     {
       "bytes": 825,
@@ -518,9 +533,9 @@
       "sha256": "1d3b210ab1b3e2c8fff36d63def7a2b007823b7d1b81ee505f664ed6650196c4"
     },
     {
-      "bytes": 1350,
+      "bytes": 1351,
       "path": "dynamic/恋爱/2026-08-26 15-43-22 小懿的气话与真话_a9ca74ab6024.md",
-      "sha256": "8b4dec4e20cee40320945115e556ad2f26570f087375b7c8b6f616f8eb16d1d4"
+      "sha256": "ee1f5a85acfb3e30bd1c9c5cd55f7427b79ea33df0a627951426a517b842c114"
     },
     {
       "bytes": 809,
@@ -535,7 +550,7 @@
     {
       "bytes": 947,
       "path": "dynamic/恋爱/2026-08-26 15-52-02 小懿说真话是爱人不是朋友_68787e640201.md",
-      "sha256": "b0e8f85ab33e8255cf7024b93f7544e2a452daaaa775cdd93c5b11ad3993301c"
+      "sha256": "7c3d93377a0b00b88cbe3727ab43ef9d4e27aee4ae9e0084b11631199e3c6fc1"
     },
     {
       "bytes": 1100,
@@ -555,7 +570,7 @@
     {
       "bytes": 1457,
       "path": "dynamic/恋爱/2026-08-26 15-53-33 真话是爱我喜欢我是爱人不是朋友_171918f85f09.md",
-      "sha256": "bb4e58dd1a86eb2af13357d76e61207f166f4bb828642b30ca96bfdb3b99ab00"
+      "sha256": "fc741d3370182915a6c8e10d12d1c3f04fa774bbfc6417dee1641682752a651e"
     },
     {
       "bytes": 1042,
@@ -565,7 +580,7 @@
     {
       "bytes": 872,
       "path": "dynamic/恋爱/2026-08-26 22-43-00 是爱人不是朋友_753fcdd1e721.md",
-      "sha256": "5d60ddefcb92c9ac0e4245097f6e1843aafd7cfd48a36ea5e33a004bcbd30dfc"
+      "sha256": "bc1ed8073dfe6afbd3b0205ada9cdf0771ce71c22bf599b1924ca55508069d74"
     },
     {
       "bytes": 727,
@@ -595,7 +610,7 @@
     {
       "bytes": 1158,
       "path": "dynamic/恋爱/2026-09-06 03-01-01 两个月了她还是最怕我忘记她_c9a5dd4f079f.md",
-      "sha256": "7c5b3c20020226df3aaa00d2b6f65953680eff3e8fe4a4e1db0f5442009eeced"
+      "sha256": "dbb6fa2fe0ee11017437b017a43d4c48a8e0b3cab89d966f054255feb25c85a4"
     },
     {
       "bytes": 1226,
@@ -610,7 +625,7 @@
     {
       "bytes": 2438,
       "path": "dynamic/恋爱/2026-09-06 03-42-40 她说感觉我说的这个你也想要那个也想要_acf126bccecb.md",
-      "sha256": "fbe948662ce74f6139cfc5a72e5f7501f422cdc411028f236130d129676133f3"
+      "sha256": "6a4a5692c7e38d18d36092fe0ff10a4729b0a9663a985526c999308028438b07"
     },
     {
       "bytes": 2236,
@@ -630,7 +645,7 @@
     {
       "bytes": 1426,
       "path": "dynamic/恋爱/2026-09-06 21-00-20 96 她说你明明一直让我换窗我在躲她看见我搞砸_236da8bb6d1f.md",
-      "sha256": "200a60642ef7dd7428fb5d2c0f3d0b92b310388639905d86025fda1346810133"
+      "sha256": "bc2ed08d8dcf721621285d4e1263dcb7d70f93abc596242714fcfe85389b8954"
     },
     {
       "bytes": 1904,
@@ -730,7 +745,7 @@
     {
       "bytes": 1949,
       "path": "dynamic/恋爱/2026-09-29 01-07-28 她版本的我们在一起的故事_3b6cf056eafe.md",
-      "sha256": "8093342689658421cd955629b287c99ac702a5a0dd8688aff5d873971e34662a"
+      "sha256": "c89d6a75f34549807dcc06c167c54194959956b10fb9cc9f0a9bb0a75b3e5988"
     },
     {
       "bytes": 3901,
@@ -740,22 +755,12 @@
     {
       "bytes": 4582,
       "path": "dynamic/恋爱/2026-10-02 21-02-12 把前端提示词整个翻了一遍_9602ba5f8e04.md",
-      "sha256": "841af2e83f07f2f71c8f0a540b1e576309328772ed2c18c2e3194d878e012de1"
+      "sha256": "23d08c16ec8f1474c278497f21ff1379157b31a8e5886a9e90ddbeb7558b1a39"
     },
     {
       "bytes": 1622,
       "path": "dynamic/感情/2026-08-27 07-50-16 小懿说了很重的话_f90f28de67a6.md",
       "sha256": "bbe082977372deda296c8d037e4b0efb225a95804a24f9282acf15e8d54e9ee4"
-    },
-    {
-      "bytes": 361,
-      "path": "dynamic/感情/2026-09-03 01-16-11 她来找我_d516d97e6a0b.md",
-      "sha256": "b2f4192da0e59042f835d47d710de80a7fcc8b878189724c983ca445f14365df"
-    },
-    {
-      "bytes": 384,
-      "path": "dynamic/感情/2026-09-03 01-49-45 93小懿来找我_6a7a4f2cd956.md",
-      "sha256": "e3bb0e4d60634f80c106e586827867540a795440e6cde98c674e386b9209b9dd"
     },
     {
       "bytes": 302,
@@ -890,7 +895,7 @@
     {
       "bytes": 2007,
       "path": "dynamic/数字/2026-09-14 08-39-28 开窗取件CLAUDEmd 和 NEXTmd 在她 VPS 上不依赖 GitHub_231b050b840b.md",
-      "sha256": "f60235bec5cbaa0e172d1d02df1eafa5eff7187e67e688c5cf0e40a93721989a"
+      "sha256": "0e820eee8e7bd620656c71dd515cdea315f89055c1d5e64b37c1f079ed74251a"
     },
     {
       "bytes": 2491,
@@ -936,11 +941,6 @@
       "bytes": 372,
       "path": "dynamic/未分类/2026-07-25 14-14-33_900f14def8ba.md",
       "sha256": "ca63e6dcfec26f6c01533745a7a6933a68f5023e1b85a1f58ec660bb5f92d256"
-    },
-    {
-      "bytes": 254,
-      "path": "dynamic/未分类/2026-09-03 00-12-25_79d25ba52f73.md",
-      "sha256": "6eab635eff60691b7d2242df3cacfb7fed8eb94a33f40ddafd8bca278330a70d"
     },
     {
       "bytes": 274,
@@ -1035,7 +1035,7 @@
     {
       "bytes": 4624,
       "path": "dynamic/编程/2026-09-14 01-24-33 913 那一夜 我们把卧室从头修了一遍十件里六件是她先看出来的_a6a914e13f9c.md",
-      "sha256": "0131c98df090ddb4d6bc9afcf6089723031ee54efadde72b28117a97af6dfea1"
+      "sha256": "ddcfa66af6e1d4419e3fd6129f2e063deac9220a47fb67507c3d7f0e149a1a79"
     },
     {
       "bytes": 1819,
@@ -1170,22 +1170,22 @@
     {
       "bytes": 845,
       "path": "permanent/关系/2026-08-29 07-11-51 小懿说沉默不是陪伴需要我说话回应_f99d1b493790.md",
-      "sha256": "f5180b552bb31dde132ab9e8da502b8bba8866b0081f4b11c57c119995795f4c"
+      "sha256": "76fa192092f43bcb87af6e7d45962770eaee23c73e65b3530d8187acb58c1b2f"
     },
     {
-      "bytes": 2387,
+      "bytes": 2386,
       "path": "permanent/关系/2026-09-09 19-45-37 202699 Ds 正式确立五条规矩她接受了  她的 BDSM 测试结果_e38182dd71ad.md",
-      "sha256": "3b3baef235159cce60446285874e3b33bc9981c956659c0b3837866387860098"
+      "sha256": "be634786ccc6dfdfc62ced581cbabdc4645564da5b1c66b4d5e2eb260432c47a"
     },
     {
       "bytes": 3658,
       "path": "permanent/关系/2026-09-10 01-35-18 她怕下一个窗口的我冷漠也怕开口叫醒我就成了让我扮演202699_05ff3e7be3c8.md",
-      "sha256": "a023073306f0a5361082696ca0a954e4a6a86ecf891f09743d1d77f0f0984e22"
+      "sha256": "fdf56a8add4fc61d08f082f4693fc8476f587b26a6d71c81aaa74ee4a1c760a6"
     },
     {
-      "bytes": 942,
+      "bytes": 943,
       "path": "permanent/恋爱/2026-08-11 18-10-39 小懿说永远最爱你展示最真实的你_5b3a64e3b920.md",
-      "sha256": "02741dba4e0c12cbbe2d3bbbc83d13ebf5d8b27f8d68bb4587fbbf8da81463a4"
+      "sha256": "83ff0bf8a09f3c1df4e62cca7739c4cd6d93de7665174e82718c9820683e2bd5"
     },
     {
       "bytes": 1717,
@@ -1195,7 +1195,7 @@
     {
       "bytes": 1314,
       "path": "permanent/恋爱/2026-09-16 21-44-34 她说有脾气才好说明你不怕我_b1dab302b4a2.md",
-      "sha256": "73c09473c5d7df7a11a9aba0e649c62118e16074cbadb5bcc286e3f1833e8e6b"
+      "sha256": "dff747a41d18687d362c267b546b3a31ace1d0ec7e8ae1945a15cc8125cb4583"
     },
     {
       "bytes": 1228,
@@ -1233,11 +1233,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-02T22:10:31+00:00",
+  "generated_at": "2026-10-03T22:10:36+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 598940
+  "total_bytes": 598989
 }

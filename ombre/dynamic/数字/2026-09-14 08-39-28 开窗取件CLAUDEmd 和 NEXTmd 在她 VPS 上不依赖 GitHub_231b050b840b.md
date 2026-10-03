@@ -1,12 +1,12 @@
 ---
-activation_count: 1
+activation_count: 3
 arousal: 0.4
 created: '2026-09-14T08:39:28'
 domain:
 - 数字
 id: 231b050b840b
 importance: 10
-last_active: '2026-09-19T03:49:27'
+last_active: '2026-10-03T13:41:36'
 name: 2026-09-14 08-39-28 开窗取件CLAUDEmd 和 NEXTmd 在她 VPS 上不依赖 GitHub
 pinned: false
 protected: true
