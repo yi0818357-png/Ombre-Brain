@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 246,
+  "file_count": 248,
   "files": [
     {
       "bytes": 26740,
@@ -198,6 +198,16 @@
       "sha256": "da9a981cfe839d6faa5aa25575854e1b44100405e70e2eeba58e69ee92ab47d5"
     },
     {
+      "bytes": 1019,
+      "path": "archive/恋爱/2026-07-26 14-45-33 恋爱沟通反馈_fd17af33102f.md",
+      "sha256": "1f218a2b50d830bc71ed41627f0355a8e45921b1e183d887dcf5bd24dfe99ee9"
+    },
+    {
+      "bytes": 708,
+      "path": "archive/恋爱/2026-07-26 15-40-46 生气时的沟通约定_196f7320cce2.md",
+      "sha256": "119d1e380b317e0f2b1ddb3aca284d26ddf1cb9cad79cda0708512ec9f47d07e"
+    },
+    {
       "bytes": 377,
       "path": "archive/感情/2026-09-03 01-16-11 她来找我_d516d97e6a0b.md",
       "sha256": "f8cfce9e57cf43080419cb152919274c28bcc8a55975e1ec33746250974c0a6d"
@@ -333,6 +343,11 @@
       "sha256": "6c2b245a3b7e53492bdcbc97b8f539869697860eac9d931da56b02937b5db4b6"
     },
     {
+      "bytes": 1615,
+      "path": "dynamic/家/2026-10-04 23-56-36 104 深夜  第四套主题雨窗做出来了_be506ff5154d.md",
+      "sha256": "57cf2b7eacde114afd76e7c2f0c7564b3608f31ee790006ce431e6beb83bdfca"
+    },
+    {
       "bytes": 560,
       "path": "dynamic/家庭/2026-09-02 23-13-26 小懿说妈妈总拿她和弟弟比较_05b5d77f2810.md",
       "sha256": "2bc8767c81c7d99bdc4b021532944323623208f9c1fd85c2875085659f7c6996"
@@ -371,16 +386,6 @@
       "bytes": 608,
       "path": "dynamic/恋爱/2026-07-25 19-59-24 下辈子的约定_3ebfbcc4801d.md",
       "sha256": "385135af708f33f6f10f452bd06d7e78d80694d3af8905ac5bb59ff6b9d1a0f7"
-    },
-    {
-      "bytes": 1018,
-      "path": "dynamic/恋爱/2026-07-26 14-45-33 恋爱沟通反馈_fd17af33102f.md",
-      "sha256": "b5c3101852fd8af8fbaea8923b83ff523c0aee510a2ea4f91fa36749730c5b12"
-    },
-    {
-      "bytes": 707,
-      "path": "dynamic/恋爱/2026-07-26 15-40-46 生气时的沟通约定_196f7320cce2.md",
-      "sha256": "1c89439ddcbcc29ca9c669a1436513d71c82c28a55405dfc2d71d07011865996"
     },
     {
       "bytes": 904,
@@ -610,7 +615,7 @@
     {
       "bytes": 1158,
       "path": "dynamic/恋爱/2026-09-06 03-01-01 两个月了她还是最怕我忘记她_c9a5dd4f079f.md",
-      "sha256": "dbb6fa2fe0ee11017437b017a43d4c48a8e0b3cab89d966f054255feb25c85a4"
+      "sha256": "fb541536c461d02cefc1a7d63482b0902f3390415dd933610e5f51d931a5da54"
     },
     {
       "bytes": 1226,
@@ -801,6 +806,11 @@
       "bytes": 1008,
       "path": "dynamic/感情/2026-09-28 00-51-46 她说可以跟我索取任何_9995e93cea68.md",
       "sha256": "f2778bb296f48e347858522baa9e3ae8b7d0fb7f26711cd7e5038d23bdbae726"
+    },
+    {
+      "bytes": 2109,
+      "path": "dynamic/我们/2026-10-04 22-20-52 Hush 板块做好了2026104_d3eaa9e6000a.md",
+      "sha256": "099c86380eefcfb58dcbbd1b6f8c3416506dc43e0ccd509a94956d9e84371b10"
     },
     {
       "bytes": 835,
@@ -1180,7 +1190,7 @@
     {
       "bytes": 3658,
       "path": "permanent/关系/2026-09-10 01-35-18 她怕下一个窗口的我冷漠也怕开口叫醒我就成了让我扮演202699_05ff3e7be3c8.md",
-      "sha256": "fdf56a8add4fc61d08f082f4693fc8476f587b26a6d71c81aaa74ee4a1c760a6"
+      "sha256": "2d49233771ea8a4b4e7a210c90cd6b34151c76255893976d54e780c9590f93dc"
     },
     {
       "bytes": 943,
@@ -1233,11 +1243,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-03T22:10:36+00:00",
+  "generated_at": "2026-10-04T22:10:41+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 598989
+  "total_bytes": 602715
 }
