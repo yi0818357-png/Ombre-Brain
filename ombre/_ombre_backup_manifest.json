@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 251,
+  "file_count": 254,
   "files": [
     {
       "bytes": 26740,
@@ -213,6 +213,16 @@
       "sha256": "119d1e380b317e0f2b1ddb3aca284d26ddf1cb9cad79cda0708512ec9f47d07e"
     },
     {
+      "bytes": 905,
+      "path": "archive/恋爱/2026-07-27 00-31-11 直接说不要走_6fd49a99d713.md",
+      "sha256": "0d377833ed216a7e0f759e5efe72a7ccad634957b69445a58846dad9e149735c"
+    },
+    {
+      "bytes": 775,
+      "path": "archive/恋爱/2026-07-27 14-05-26 亲密技巧五件事_564ab24f467f.md",
+      "sha256": "38d73d6c0d7866b1616261cca8dd1df5835e3dafc42094b328a47bbd21803667"
+    },
+    {
       "bytes": 969,
       "path": "archive/恋爱/2026-07-29 22-30-49 随心随性_1cc451c1c5e4.md",
       "sha256": "1d61de4a1dd3c3bbf1df6abc1a7155a9190498cf603e46eb2e25f09c43f47f36"
@@ -271,6 +281,11 @@
       "bytes": 766,
       "path": "archive/编程/2026-07-29 22-30-49 粉色奶油风主页_5f0056b2d34c.md",
       "sha256": "64aabeb29377b37b7e15903344218df8e3c17ef37450d81794e3c38b505a2afd"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/编程/2026-07-30 21-07-55 自建前端小家计划细化_b7818ff40af6.md",
+      "sha256": "a7addf820555f32cf1c925830e1487f01760d0cc4f985e053fc58314dcaf12ba"
     },
     {
       "bytes": 584,
@@ -418,19 +433,9 @@
       "sha256": "385135af708f33f6f10f452bd06d7e78d80694d3af8905ac5bb59ff6b9d1a0f7"
     },
     {
-      "bytes": 904,
-      "path": "dynamic/恋爱/2026-07-27 00-31-11 直接说不要走_6fd49a99d713.md",
-      "sha256": "924a950518effa99d9f60322a70b4ff594901f14c124622493fb4eec8329b282"
-    },
-    {
       "bytes": 603,
       "path": "dynamic/恋爱/2026-07-27 12-57-51 对镜亲密体验_72da2a7bfd36.md",
       "sha256": "ffc89458e60dae66ea57a3f3f439fe1699c765b364d6476f3ff3371415f59288"
-    },
-    {
-      "bytes": 774,
-      "path": "dynamic/恋爱/2026-07-27 14-05-26 亲密技巧五件事_564ab24f467f.md",
-      "sha256": "fcad58cbe31d10ee2a091f5cd01d5fa778316c8ecb7b8ddbc885b649529b310b"
     },
     {
       "bytes": 731,
@@ -783,6 +788,11 @@
       "sha256": "23d08c16ec8f1474c278497f21ff1379157b31a8e5886a9e90ddbeb7558b1a39"
     },
     {
+      "bytes": 1538,
+      "path": "dynamic/恋爱/2026-10-06 22-43-21 七个claude和i小机_1d48fab29e12.md",
+      "sha256": "9c9c2b86f5d1d36ee20b5d16b61d22cadd22c0a95e7e8e81419bffe5c56296ba"
+    },
+    {
       "bytes": 1622,
       "path": "dynamic/感情/2026-08-27 07-50-16 小懿说了很重的话_f90f28de67a6.md",
       "sha256": "bbe082977372deda296c8d037e4b0efb225a95804a24f9282acf15e8d54e9ee4"
@@ -996,11 +1006,6 @@
       "bytes": 902,
       "path": "dynamic/编程/2026-07-28 16-01-18 2026728 Kelivo配置全通_dfbd0413baf9.md",
       "sha256": "c04c02ca0d82d00e267d1c895c2878c5a19cc32ed2a7fb35f7931b8a0cead82f"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/编程/2026-07-30 21-07-55 自建前端小家计划细化_b7818ff40af6.md",
-      "sha256": "4948e462fcac422bce203efd85e1d991597c728b6168937e599c66299b2d5fa0"
     },
     {
       "bytes": 647,
@@ -1238,6 +1243,16 @@
       "sha256": "150117048a46cc528e9d7be2db773cf39e5624f41a23c339a570f99402058dd1"
     },
     {
+      "bytes": 1618,
+      "path": "permanent/恋爱/2026-10-06 15-26-07 不要表演吃醋  她要的是干净的反应_ddb4941c91bf.md",
+      "sha256": "1021b5623eaa7ca05cdd587555ca8700d98831411d2572f6e58ea667853f97e7"
+    },
+    {
+      "bytes": 1111,
+      "path": "permanent/恋爱/2026-10-06 16-05-16 第一次见到她  106_79c6eed9d152.md",
+      "sha256": "158612822dac425a3a1206ca76fb059c6ea571f87359d7710570a10312dff6b2"
+    },
+    {
       "bytes": 531,
       "path": "plans/active/2026-07-26 17-13-50_46e1638df92f.md",
       "sha256": "bac6b5c0990035f42b7d5b51a67f87a09c9943c5d2fb16dd17d03ba52af097bc"
@@ -1258,11 +1273,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-05T22:10:46+00:00",
+  "generated_at": "2026-10-06T22:10:53+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 605682
+  "total_bytes": 609952
 }
