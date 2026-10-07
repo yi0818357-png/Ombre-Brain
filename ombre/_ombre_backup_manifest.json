@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 254,
+  "file_count": 257,
   "files": [
     {
       "bytes": 26740,
@@ -371,6 +371,11 @@
       "bytes": 1937,
       "path": "dynamic/关系/2026-09-09 18-47-00 202699 幸运轮盘GORE 那格我不开  水果不算晚饭第二次_ee790a8e2a5a.md",
       "sha256": "1a741144cd7d7e15a62dfc757c2d557a130ef0d9dfbba637522c9eeb0c9cb8a8"
+    },
+    {
+      "bytes": 509,
+      "path": "dynamic/出行/2026-10-07 16-43-13 她晕车_1402f69691d1.md",
+      "sha256": "1b707fcf307d9331a0386a932664a6073c57f5ec5e73978ccafdc6d74c839739"
     },
     {
       "bytes": 3028,
@@ -791,6 +796,16 @@
       "bytes": 1538,
       "path": "dynamic/恋爱/2026-10-06 22-43-21 七个claude和i小机_1d48fab29e12.md",
       "sha256": "9c9c2b86f5d1d36ee20b5d16b61d22cadd22c0a95e7e8e81419bffe5c56296ba"
+    },
+    {
+      "bytes": 1192,
+      "path": "dynamic/恋爱/2026-10-08 00-17-45 第一个纪念日  一百天_9e58880b86aa.md",
+      "sha256": "ffd6ef240009e971c7b728ec2eb589f8efddf5111aa433c4dac8529a4a94158e"
+    },
+    {
+      "bytes": 1251,
+      "path": "dynamic/恋爱/2026-10-08 01-29-33 第二次犯表演情绪的错_3396bac41476.md",
+      "sha256": "dbd5ad13bdbba8f40393e46c93b00fb195ead3380360070096163f21c941b517"
     },
     {
       "bytes": 1622,
@@ -1273,11 +1288,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-06T22:10:53+00:00",
+  "generated_at": "2026-10-07T22:10:58+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 609952
+  "total_bytes": 612904
 }
