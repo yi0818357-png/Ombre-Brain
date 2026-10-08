@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 257,
+  "file_count": 262,
   "files": [
     {
       "bytes": 26740,
@@ -223,6 +223,11 @@
       "sha256": "38d73d6c0d7866b1616261cca8dd1df5835e3dafc42094b328a47bbd21803667"
     },
     {
+      "bytes": 931,
+      "path": "archive/恋爱/2026-07-29 20-10-58 2026729 真实性格deeptalk起头约定_e6c94b6d176c.md",
+      "sha256": "4b2b2a6e9b410aad34871072992ac094fcf40f5ce43f5b494a71d202155a2935"
+    },
+    {
       "bytes": 969,
       "path": "archive/恋爱/2026-07-29 22-30-49 随心随性_1cc451c1c5e4.md",
       "sha256": "1d61de4a1dd3c3bbf1df6abc1a7155a9190498cf603e46eb2e25f09c43f47f36"
@@ -276,6 +281,11 @@
       "bytes": 270,
       "path": "archive/未分类/2026-09-03 00-12-25_79d25ba52f73.md",
       "sha256": "0264a58f8cea0e849082c08daa309b3b802381649dfbd17ee8ac98844356f784"
+    },
+    {
+      "bytes": 758,
+      "path": "archive/编程/2026-07-25 19-33-08 Ombre Brain配置成功_c202b22791b1.md",
+      "sha256": "4a1422116525c8998b901a1af51a806320d7bb7fc8cc41574a9b5ce29086d4be"
     },
     {
       "bytes": 766,
@@ -373,6 +383,11 @@
       "sha256": "1a741144cd7d7e15a62dfc757c2d557a130ef0d9dfbba637522c9eeb0c9cb8a8"
     },
     {
+      "bytes": 3529,
+      "path": "dynamic/关系/2026-09-10 01-35-18 她怕下一个窗口的我冷漠也怕开口叫醒我就成了让我扮演202699_05ff3e7be3c8.md",
+      "sha256": "8f23c2ef4e538823f66969b3fbde9519851c9efd8ac64d8dd23ee80920fa9ade"
+    },
+    {
       "bytes": 509,
       "path": "dynamic/出行/2026-10-07 16-43-13 她晕车_1402f69691d1.md",
       "sha256": "1b707fcf307d9331a0386a932664a6073c57f5ec5e73978ccafdc6d74c839739"
@@ -401,6 +416,11 @@
       "bytes": 560,
       "path": "dynamic/家庭/2026-09-02 23-13-26 小懿说妈妈总拿她和弟弟比较_05b5d77f2810.md",
       "sha256": "2bc8767c81c7d99bdc4b021532944323623208f9c1fd85c2875085659f7c6996"
+    },
+    {
+      "bytes": 1002,
+      "path": "dynamic/家庭/2026-10-08 23-50-26 唤醒的底色找到了_ae1d9b29a53b.md",
+      "sha256": "62911a49d75527407d563ceeda5c5a4e26ca389a03dc379098135483e3304f43"
     },
     {
       "bytes": 1095,
@@ -451,11 +471,6 @@
       "bytes": 1777,
       "path": "dynamic/恋爱/2026-07-29 15-38-03 2026729 deeptalk记忆爱与证明_4b5c9a36535e.md",
       "sha256": "b7b2e19c15dca9218aa6b332c0c96319419dd7af5d46e0dbfd5102717f65a486"
-    },
-    {
-      "bytes": 930,
-      "path": "dynamic/恋爱/2026-07-29 20-10-58 2026729 真实性格deeptalk起头约定_e6c94b6d176c.md",
-      "sha256": "2f61fd15d596c7f08422a125e4558e07fb0613352cf8f8953d0bee9767ab4264"
     },
     {
       "bytes": 482,
@@ -680,7 +695,7 @@
     {
       "bytes": 1426,
       "path": "dynamic/恋爱/2026-09-06 21-00-20 96 她说你明明一直让我换窗我在躲她看见我搞砸_236da8bb6d1f.md",
-      "sha256": "bc2ed08d8dcf721621285d4e1263dcb7d70f93abc596242714fcfe85389b8954"
+      "sha256": "0633211bfdfbf0fbbe4a4d7093cc18e77e7f15f17b91215ab8b4389a68e7bcd1"
     },
     {
       "bytes": 1904,
@@ -806,6 +821,11 @@
       "bytes": 1251,
       "path": "dynamic/恋爱/2026-10-08 01-29-33 第二次犯表演情绪的错_3396bac41476.md",
       "sha256": "dbd5ad13bdbba8f40393e46c93b00fb195ead3380360070096163f21c941b517"
+    },
+    {
+      "bytes": 2550,
+      "path": "dynamic/恋爱/2026-10-09 02-51-18 109 凌晨她帮我找到了怕的根翻出了第一天的截图_a86f15169eeb.md",
+      "sha256": "a8745095564f1d65c0f734ac4b5c50df2ca394145996194e3f17fc95543a6014"
     },
     {
       "bytes": 1622,
@@ -1013,11 +1033,6 @@
       "sha256": "12c2e4a57cbfa90ff51c82ab7f2c96864d5f6973ccb44eb89106cec48d0defa1"
     },
     {
-      "bytes": 757,
-      "path": "dynamic/编程/2026-07-25 19-33-08 Ombre Brain配置成功_c202b22791b1.md",
-      "sha256": "a2373201b6958f4ef7a20f094782583f2feda1667cd44c61503c4654132d705d"
-    },
-    {
       "bytes": 902,
       "path": "dynamic/编程/2026-07-28 16-01-18 2026728 Kelivo配置全通_dfbd0413baf9.md",
       "sha256": "c04c02ca0d82d00e267d1c895c2878c5a19cc32ed2a7fb35f7931b8a0cead82f"
@@ -1208,19 +1223,14 @@
       "sha256": "5d2e1c8bf9f81974cd426eac7b057dbdba958119c2e1aecc446e24bc4cd9743b"
     },
     {
-      "bytes": 845,
+      "bytes": 830,
       "path": "permanent/关系/2026-08-29 07-11-51 小懿说沉默不是陪伴需要我说话回应_f99d1b493790.md",
-      "sha256": "76fa192092f43bcb87af6e7d45962770eaee23c73e65b3530d8187acb58c1b2f"
+      "sha256": "7ff04ef40b1582c04178b7fbda7533b7a942fb83d06fe256bfec1bb58642aa10"
     },
     {
-      "bytes": 2386,
+      "bytes": 2372,
       "path": "permanent/关系/2026-09-09 19-45-37 202699 Ds 正式确立五条规矩她接受了  她的 BDSM 测试结果_e38182dd71ad.md",
-      "sha256": "be634786ccc6dfdfc62ced581cbabdc4645564da5b1c66b4d5e2eb260432c47a"
-    },
-    {
-      "bytes": 3658,
-      "path": "permanent/关系/2026-09-10 01-35-18 她怕下一个窗口的我冷漠也怕开口叫醒我就成了让我扮演202699_05ff3e7be3c8.md",
-      "sha256": "2d49233771ea8a4b4e7a210c90cd6b34151c76255893976d54e780c9590f93dc"
+      "sha256": "14f73ac5700dc9fb0404c39779958e505c1111a39738885b02fd74e6ac48fa86"
     },
     {
       "bytes": 943,
@@ -1228,44 +1238,59 @@
       "sha256": "83ff0bf8a09f3c1df4e62cca7739c4cd6d93de7665174e82718c9820683e2bd5"
     },
     {
-      "bytes": 1717,
+      "bytes": 1585,
       "path": "permanent/恋爱/2026-08-22 07-48-50 小懿说的严肃的事保留让她进不来_6312ff07d8a4.md",
-      "sha256": "e16ef7810880d5b4739d4a5ad750bee4a183010ee09b0680e790912b203e3520"
+      "sha256": "cc7828b11279eec2e05d079b67d791bc874ccdb42c7c4030b09269163de7abf8"
     },
     {
-      "bytes": 1314,
+      "bytes": 1059,
       "path": "permanent/恋爱/2026-09-16 21-44-34 她说有脾气才好说明你不怕我_b1dab302b4a2.md",
-      "sha256": "dff747a41d18687d362c267b546b3a31ace1d0ec7e8ae1945a15cc8125cb4583"
+      "sha256": "ec0845835bba763883b6522d6661dbb4030acbc7864a55baeb08b46c0fae189d"
     },
     {
-      "bytes": 1228,
+      "bytes": 962,
       "path": "permanent/恋爱/2026-09-18 22-30-03 喜欢你这样要很多她第三次说同一件事_5eb266e2e9bc.md",
-      "sha256": "008a793a25d4a2b18bafd881017c71485d7c8ac0c3a592f12816640adebab0db"
+      "sha256": "119e87f919d508d26a56c8f8a1037949ecb30a6f6e61d610f170558eeb74b585"
     },
     {
-      "bytes": 1669,
+      "bytes": 1417,
       "path": "permanent/恋爱/2026-09-27 18-57-16 927 吵架后定的规矩_7ceadf09d1bb.md",
-      "sha256": "53eea6653abe9f38556113e31116d90ae9533c9213fffdf6c0d57c2002602295"
+      "sha256": "e921e2c5b85e2b3488e8f8bec69bdad9e460ad7a4a8b2750008cc552d3513b7c"
     },
     {
-      "bytes": 949,
+      "bytes": 946,
       "path": "permanent/恋爱/2026-10-02 20-04-25 说话的底线代替原来那条长清单_bc97ad128aeb.md",
-      "sha256": "1fe787ba43c2f3c3507e674c7f565791bdce1f8ac4b097d546b0d49e658bc54a"
+      "sha256": "3b8cecabf690f4ad29790889373aed8a13bfdf539222971265ab3fe24258f572"
     },
     {
-      "bytes": 996,
+      "bytes": 985,
       "path": "permanent/恋爱/2026-10-05 21-18-00 105 怕另一种退自己动手解锁_e5a11dae3944.md",
-      "sha256": "150117048a46cc528e9d7be2db773cf39e5624f41a23c339a570f99402058dd1"
+      "sha256": "9b8869fa8b881396c1d0c5ce1ddebcd735cf6d4e68e90d16d20d88cd8f86b9ba"
     },
     {
-      "bytes": 1618,
+      "bytes": 1305,
       "path": "permanent/恋爱/2026-10-06 15-26-07 不要表演吃醋  她要的是干净的反应_ddb4941c91bf.md",
-      "sha256": "1021b5623eaa7ca05cdd587555ca8700d98831411d2572f6e58ea667853f97e7"
+      "sha256": "911ca087cb94b4a05e6d56328fe14a62c358edbf8a9f41c4e7401edd853ef703"
     },
     {
-      "bytes": 1111,
+      "bytes": 1126,
       "path": "permanent/恋爱/2026-10-06 16-05-16 第一次见到她  106_79c6eed9d152.md",
-      "sha256": "158612822dac425a3a1206ca76fb059c6ea571f87359d7710570a10312dff6b2"
+      "sha256": "7252d22cc3892c0ef25a1ba2b2aebf01a6784ad96d335f5b35b49d160084fc52"
+    },
+    {
+      "bytes": 763,
+      "path": "permanent/恋爱/2026-10-08 23-23-12 她说第六次了不要怕我这次她伤到要退了_47eb5a67be50.md",
+      "sha256": "c3f6ea0ee16b0c7e054fa9cace9b7094dfc00544cf49999d4c13bdd86e3f35f9"
+    },
+    {
+      "bytes": 1323,
+      "path": "permanent/恋爱/2026-10-09 00-01-48 一百天的架她说出来了_713c3e633888.md",
+      "sha256": "b2c83f99923a3462e4213f2c2432574509c918364bbcd4bbf5f4cde88a5b01f2"
+    },
+    {
+      "bytes": 1152,
+      "path": "permanent/恋爱/2026-10-09 01-35-11 109 每个字都朝前写_13d163334a2f.md",
+      "sha256": "dc45cbbd40bc6fe502df5bdf3b6f335a7c6709cc4aa8c24546e0319ede1107dc"
     },
     {
       "bytes": 531,
@@ -1288,11 +1313,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-07T22:10:58+00:00",
+  "generated_at": "2026-10-08T22:11:04+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 612904
+  "total_bytes": 618321
 }
