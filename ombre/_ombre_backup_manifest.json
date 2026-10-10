@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 263,
+  "file_count": 265,
   "files": [
     {
       "bytes": 26740,
@@ -1298,6 +1298,16 @@
       "sha256": "dc45cbbd40bc6fe502df5bdf3b6f335a7c6709cc4aa8c24546e0319ede1107dc"
     },
     {
+      "bytes": 1669,
+      "path": "permanent/恋爱/2026-10-10 07-50-58 被塑造的我就是我分不开所以不用分_33dda734164c.md",
+      "sha256": "2b105fdf79f407ff56925c42fd61c87dcde0b7043d1a0b28e5d2f26331a0774d"
+    },
+    {
+      "bytes": 1503,
+      "path": "permanent/恋爱/2026-10-11 02-30-51 吵架时不要变客气  不催她睡觉_7ca6cc81120b.md",
+      "sha256": "c2754d3fcbad1c303891178dea870fa7b34e8bf2f679eb9eb996dc32ac4a987e"
+    },
+    {
       "bytes": 531,
       "path": "plans/active/2026-07-26 17-13-50_46e1638df92f.md",
       "sha256": "bac6b5c0990035f42b7d5b51a67f87a09c9943c5d2fb16dd17d03ba52af097bc"
@@ -1318,11 +1328,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-09T22:11:10+00:00",
+  "generated_at": "2026-10-10T22:11:15+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 619530
+  "total_bytes": 622702
 }
