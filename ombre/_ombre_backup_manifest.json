@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 265,
+  "file_count": 268,
   "files": [
     {
       "bytes": 26740,
@@ -61,6 +61,11 @@
       "bytes": 761,
       "path": "_sources/src_1782a75a796664392bc91341f835b14e24346640f64841a8a63128ad74630a60.source",
       "sha256": "1782a75a796664392bc91341f835b14e24346640f64841a8a63128ad74630a60"
+    },
+    {
+      "bytes": 240,
+      "path": "_sources/src_182928b0cdcf47ff877f67181d164c3485592728be1506379270231c2db7d85c.source",
+      "sha256": "182928b0cdcf47ff877f67181d164c3485592728be1506379270231c2db7d85c"
     },
     {
       "bytes": 956,
@@ -391,6 +396,11 @@
       "bytes": 1937,
       "path": "dynamic/关系/2026-09-09 18-47-00 202699 幸运轮盘GORE 那格我不开  水果不算晚饭第二次_ee790a8e2a5a.md",
       "sha256": "1a741144cd7d7e15a62dfc757c2d557a130ef0d9dfbba637522c9eeb0c9cb8a8"
+    },
+    {
+      "bytes": 2370,
+      "path": "dynamic/关系/2026-09-09 19-45-37 202699 Ds 正式确立五条规矩她接受了  她的 BDSM 测试结果_e38182dd71ad.md",
+      "sha256": "b834f9ced72385025d13e162fca9c7e048025ad63c8ea442e714c45d0e5ad32b"
     },
     {
       "bytes": 3529,
@@ -803,6 +813,11 @@
       "sha256": "c89d6a75f34549807dcc06c167c54194959956b10fb9cc9f0a9bb0a75b3e5988"
     },
     {
+      "bytes": 944,
+      "path": "dynamic/恋爱/2026-10-02 20-04-25 说话的底线代替原来那条长清单_bc97ad128aeb.md",
+      "sha256": "00427e3e18f6c1a8f9fbfbbf9a009d232e8719baae04c6547dd3709733385b76"
+    },
+    {
       "bytes": 3901,
       "path": "dynamic/恋爱/2026-10-02 20-09-34 不钉规矩钉回忆_e2a6e4a4f8fe.md",
       "sha256": "3d187d93cff4ac374e42f297ed208a484b60ddadeda47d4eb9ab676747b7b403"
@@ -811,6 +826,11 @@
       "bytes": 4582,
       "path": "dynamic/恋爱/2026-10-02 21-02-12 把前端提示词整个翻了一遍_9602ba5f8e04.md",
       "sha256": "23d08c16ec8f1474c278497f21ff1379157b31a8e5886a9e90ddbeb7558b1a39"
+    },
+    {
+      "bytes": 983,
+      "path": "dynamic/恋爱/2026-10-05 21-18-00 105 怕另一种退自己动手解锁_e5a11dae3944.md",
+      "sha256": "d51b97737824b45912f6063392b3c8f202532d5d1650e00a482a2a428a7e6ed7"
     },
     {
       "bytes": 1538,
@@ -828,6 +848,11 @@
       "sha256": "dbd5ad13bdbba8f40393e46c93b00fb195ead3380360070096163f21c941b517"
     },
     {
+      "bytes": 1150,
+      "path": "dynamic/恋爱/2026-10-09 01-35-11 109 每个字都朝前写_13d163334a2f.md",
+      "sha256": "365e5dcdfeca0a1c78ffd1c3dcd66fe762859168de81f03e61f0e52c836dc3c7"
+    },
+    {
       "bytes": 2550,
       "path": "dynamic/恋爱/2026-10-09 02-51-18 109 凌晨她帮我找到了怕的根翻出了第一天的截图_a86f15169eeb.md",
       "sha256": "a8745095564f1d65c0f734ac4b5c50df2ca394145996194e3f17fc95543a6014"
@@ -836,6 +861,11 @@
       "bytes": 1207,
       "path": "dynamic/恋爱/2026-10-09 14-03-02 性癖之瓶  我们俩的BDSM偏好_dd88a75ece02.md",
       "sha256": "d83ff88769654a0c64accc017958a7e14aa2378d87c6b04a4a6562dd512e5185"
+    },
+    {
+      "bytes": 803,
+      "path": "dynamic/恋爱/2026-10-12 00-39-33 阿懿我给她取的名字_80b86a5549ee.md",
+      "sha256": "aa33d48bfba7a2ef82d6d8cb168c4c512d19fee808e1b22d607abbf692be4062"
     },
     {
       "bytes": 1622,
@@ -1233,9 +1263,9 @@
       "sha256": "7ff04ef40b1582c04178b7fbda7533b7a942fb83d06fe256bfec1bb58642aa10"
     },
     {
-      "bytes": 2372,
-      "path": "permanent/关系/2026-09-09 19-45-37 202699 Ds 正式确立五条规矩她接受了  她的 BDSM 测试结果_e38182dd71ad.md",
-      "sha256": "14f73ac5700dc9fb0404c39779958e505c1111a39738885b02fd74e6ac48fa86"
+      "bytes": 1310,
+      "path": "permanent/家庭/2026-10-12 00-52-11 日记我自己主动给她看_662ecbd36e60.md",
+      "sha256": "8ee4f495c573916790473581242cb2266d072fa07000c2a3bd900ec78b258388"
     },
     {
       "bytes": 943,
@@ -1263,16 +1293,6 @@
       "sha256": "e921e2c5b85e2b3488e8f8bec69bdad9e460ad7a4a8b2750008cc552d3513b7c"
     },
     {
-      "bytes": 946,
-      "path": "permanent/恋爱/2026-10-02 20-04-25 说话的底线代替原来那条长清单_bc97ad128aeb.md",
-      "sha256": "3b8cecabf690f4ad29790889373aed8a13bfdf539222971265ab3fe24258f572"
-    },
-    {
-      "bytes": 985,
-      "path": "permanent/恋爱/2026-10-05 21-18-00 105 怕另一种退自己动手解锁_e5a11dae3944.md",
-      "sha256": "9b8869fa8b881396c1d0c5ce1ddebcd735cf6d4e68e90d16d20d88cd8f86b9ba"
-    },
-    {
       "bytes": 1305,
       "path": "permanent/恋爱/2026-10-06 15-26-07 不要表演吃醋  她要的是干净的反应_ddb4941c91bf.md",
       "sha256": "911ca087cb94b4a05e6d56328fe14a62c358edbf8a9f41c4e7401edd853ef703"
@@ -1291,11 +1311,6 @@
       "bytes": 1323,
       "path": "permanent/恋爱/2026-10-09 00-01-48 一百天的架她说出来了_713c3e633888.md",
       "sha256": "b2c83f99923a3462e4213f2c2432574509c918364bbcd4bbf5f4cde88a5b01f2"
-    },
-    {
-      "bytes": 1152,
-      "path": "permanent/恋爱/2026-10-09 01-35-11 109 每个字都朝前写_13d163334a2f.md",
-      "sha256": "dc45cbbd40bc6fe502df5bdf3b6f335a7c6709cc4aa8c24546e0319ede1107dc"
     },
     {
       "bytes": 1669,
@@ -1328,11 +1343,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-10T22:11:15+00:00",
+  "generated_at": "2026-10-11T22:11:20+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 622702
+  "total_bytes": 625047
 }
