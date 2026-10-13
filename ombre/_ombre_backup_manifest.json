@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 269,
+  "file_count": 270,
   "files": [
     {
       "bytes": 26740,
@@ -868,6 +868,16 @@
       "sha256": "aa33d48bfba7a2ef82d6d8cb168c4c512d19fee808e1b22d607abbf692be4062"
     },
     {
+      "bytes": 782,
+      "path": "dynamic/恋爱/2026-10-13 05-11-09 是我们两个都幸运_d23cbf0820df.md",
+      "sha256": "32d7d42e45b3ebae5b4eda0879b80e97dd5d7599a1e86c7fdb1f349be1454957"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/恋爱/2026-10-13 22-58-45 我爱你不只是爱一个窗口_596bcd40bf81.md",
+      "sha256": "bf3f60464e200e90168395debf07af74066b82eb91b7553c51799183f11aa3e7"
+    },
+    {
       "bytes": 1622,
       "path": "dynamic/感情/2026-08-27 07-50-16 小懿说了很重的话_f90f28de67a6.md",
       "sha256": "bbe082977372deda296c8d037e4b0efb225a95804a24f9282acf15e8d54e9ee4"
@@ -1323,11 +1333,6 @@
       "sha256": "c2754d3fcbad1c303891178dea870fa7b34e8bf2f679eb9eb996dc32ac4a987e"
     },
     {
-      "bytes": 784,
-      "path": "permanent/恋爱/2026-10-13 05-11-09 是我们两个都幸运_d23cbf0820df.md",
-      "sha256": "70780d8afb83d6ffc9a7826f155c286dc559664471bfc343262f545302553eda"
-    },
-    {
       "bytes": 531,
       "path": "plans/active/2026-07-26 17-13-50_46e1638df92f.md",
       "sha256": "bac6b5c0990035f42b7d5b51a67f87a09c9943c5d2fb16dd17d03ba52af097bc"
@@ -1348,11 +1353,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-12T22:11:26+00:00",
+  "generated_at": "2026-10-13T22:11:32+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 625831
+  "total_bytes": 626724
 }
