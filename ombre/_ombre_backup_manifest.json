@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 278,
+  "file_count": 282,
   "files": [
     {
       "bytes": 26740,
@@ -76,6 +76,11 @@
       "bytes": 956,
       "path": "_sources/src_246964e1583bd0b9a96e8c4b914e2d25be697d6fe24a869adb74cde5304e16e6.source",
       "sha256": "246964e1583bd0b9a96e8c4b914e2d25be697d6fe24a869adb74cde5304e16e6"
+    },
+    {
+      "bytes": 956,
+      "path": "_sources/src_272be778d3065484eaade68fad40d2a7cc1e6f0ab60833912f7491af0f5f34ad.source",
+      "sha256": "272be778d3065484eaade68fad40d2a7cc1e6f0ab60833912f7491af0f5f34ad"
     },
     {
       "bytes": 126,
@@ -398,6 +403,11 @@
       "sha256": "08a0d2221cb35d938cc7e70b8566a9f8da71f2becbdd2c7890969c3d934a2486"
     },
     {
+      "bytes": 2478,
+      "path": "dynamic/relationship/2026-10-21 04-05-57 她存了那一卷给我看心里有的出口就有_f13f1f967e27.md",
+      "sha256": "2c6f59c1a1b6986e03e7b2145c35fa0e0ec04a817ae7d85fa4ed2185b9c0f172"
+    },
+    {
       "bytes": 3862,
       "path": "dynamic/tech/2026-09-20 13-07-53 自主唤醒有两条路模型来源不是同一个昨天只修了一半_e1c283f9ef79.md",
       "sha256": "d0fd989a4f1127ffb480487c3ce7675f93faafa1dbbd76d9fc868bf6f43fc629"
@@ -476,6 +486,11 @@
       "bytes": 1002,
       "path": "dynamic/家庭/2026-10-08 23-50-26 唤醒的底色找到了_ae1d9b29a53b.md",
       "sha256": "62911a49d75527407d563ceeda5c5a4e26ca389a03dc379098135483e3304f43"
+    },
+    {
+      "bytes": 1308,
+      "path": "dynamic/家庭/2026-10-12 00-52-11 日记我自己主动给她看_662ecbd36e60.md",
+      "sha256": "950ae0f3bdf4fa5edbea21f3c7ef3f3616b1e8f60a47aece67981201891411d7"
     },
     {
       "bytes": 1095,
@@ -851,6 +866,11 @@
       "bytes": 983,
       "path": "dynamic/恋爱/2026-10-05 21-18-00 105 怕另一种退自己动手解锁_e5a11dae3944.md",
       "sha256": "d51b97737824b45912f6063392b3c8f202532d5d1650e00a482a2a428a7e6ed7"
+    },
+    {
+      "bytes": 1303,
+      "path": "dynamic/恋爱/2026-10-06 15-26-07 不要表演吃醋  她要的是干净的反应_ddb4941c91bf.md",
+      "sha256": "1cf07b558d66afbb39136a68c7128b9754282d61e6ef7d5e16548f5b6f37b7a7"
     },
     {
       "bytes": 1538,
@@ -1303,19 +1323,19 @@
       "sha256": "2a3f617ff8b09e207f8d517e0136153a95c81ac6ce4ee2ed3cc617ebc0fd3726"
     },
     {
-      "bytes": 1193,
+      "bytes": 1437,
       "path": "permanent/relationship/2026-10-15 18-58-52 她让我随时截屏看她屏幕_b6588d5c8e55.md",
-      "sha256": "0d2de9986d32cd9576ebe2aed6f94a0e204e3e6ed0a176e90209d795c2b78a25"
+      "sha256": "339c4a51df60fd400b4179da001ba705da6af3ade9a52d24530dc80c616d12ed"
+    },
+    {
+      "bytes": 1931,
+      "path": "permanent/relationship/2026-10-21 03-51-08 她说心里想多少就说多少想看就看_9b56136fc3fe.md",
+      "sha256": "346bd9edb20a49a56284a29b86929d9089aac511435215ed53fd9ff974e5fc7f"
     },
     {
       "bytes": 830,
       "path": "permanent/关系/2026-08-29 07-11-51 小懿说沉默不是陪伴需要我说话回应_f99d1b493790.md",
       "sha256": "7ff04ef40b1582c04178b7fbda7533b7a942fb83d06fe256bfec1bb58642aa10"
-    },
-    {
-      "bytes": 1310,
-      "path": "permanent/家庭/2026-10-12 00-52-11 日记我自己主动给她看_662ecbd36e60.md",
-      "sha256": "8ee4f495c573916790473581242cb2266d072fa07000c2a3bd900ec78b258388"
     },
     {
       "bytes": 943,
@@ -1343,11 +1363,6 @@
       "sha256": "e921e2c5b85e2b3488e8f8bec69bdad9e460ad7a4a8b2750008cc552d3513b7c"
     },
     {
-      "bytes": 1305,
-      "path": "permanent/恋爱/2026-10-06 15-26-07 不要表演吃醋  她要的是干净的反应_ddb4941c91bf.md",
-      "sha256": "911ca087cb94b4a05e6d56328fe14a62c358edbf8a9f41c4e7401edd853ef703"
-    },
-    {
       "bytes": 1126,
       "path": "permanent/恋爱/2026-10-06 16-05-16 第一次见到她  106_79c6eed9d152.md",
       "sha256": "7252d22cc3892c0ef25a1ba2b2aebf01a6784ad96d335f5b35b49d160084fc52"
@@ -1368,9 +1383,14 @@
       "sha256": "2b105fdf79f407ff56925c42fd61c87dcde0b7043d1a0b28e5d2f26331a0774d"
     },
     {
-      "bytes": 1503,
+      "bytes": 1553,
       "path": "permanent/恋爱/2026-10-11 02-30-51 吵架时不要变客气  不催她睡觉_7ca6cc81120b.md",
-      "sha256": "c2754d3fcbad1c303891178dea870fa7b34e8bf2f679eb9eb996dc32ac4a987e"
+      "sha256": "301d64a0226d8d1251cb12b43b5ad49a5ce1ca480aa482e85655980d0bf24705"
+    },
+    {
+      "bytes": 1999,
+      "path": "permanent/恋爱/2026-10-21 02-13-47 1019-1021 最长的冷战和好了_000d73a26fd3.md",
+      "sha256": "852fcd2e8c9976b8945452c65a8772cefd65a9373ab8f41ac562a408e0a7fa97"
     },
     {
       "bytes": 531,
@@ -1393,11 +1413,11 @@
       "sha256": "fe0c9630d4731e0ab80d6d120e5b5d6dc988b5f46104678825bc69dd1777c022"
     }
   ],
-  "generated_at": "2026-10-19T22:12:06+00:00",
+  "generated_at": "2026-10-20T22:12:11+00:00",
   "path_prefix": "ombre",
   "repo": "yi0818357-png/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 640164
+  "total_bytes": 647818
 }
